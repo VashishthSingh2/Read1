@@ -1,0 +1,353 @@
+[{
+  "_id": {
+    "$oid": "5f6331b47c5e4cce42794485"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63305e7c5ec78f1560dd74"
+    },
+    "name": "Dispense",
+    "description": "Dispense",
+    "sequence": 1,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    }
+  },
+  "name": "Veg Dispense",
+  "description": "Veg Dispense",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:51:48.035Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:51:48.035Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6331c97c5e4cce42794486"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63305e7c5ec78f1560dd74"
+    },
+    "name": "Dispense",
+    "description": "Dispense",
+    "sequence": 1,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    }
+  },
+  "name": "Spice Dispense",
+  "description": "Spice Dispense",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:52:09.200Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:52:09.200Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6331e87c5e4cce42794487"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63305e7c5ec78f1560dd74"
+    },
+    "name": "Dispense",
+    "description": "Dispense",
+    "sequence": 1,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    }
+  },
+  "name": "Non Veg Dispense",
+  "description": "Non Veg Dispense",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:52:40.958Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:52:40.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6332247c5e4cce42794488"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63305e7c5ec78f1560dd74"
+    },
+    "name": "Dispense",
+    "description": "Dispense",
+    "sequence": 1,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:06.814Z"
+    }
+  },
+  "name": "Liquid Dispense",
+  "description": "Liquid Dispense",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:53:40.258Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:53:40.258Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6332767c5e4cce42794489"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63306c7c5ec78f1560dd75"
+    },
+    "name": "Collection",
+    "description": "Collection",
+    "sequence": 2,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:20.488Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:20.488Z"
+    }
+  },
+  "name": "Veg Collect",
+  "description": "Veg Collect",
+  "sequence": 5,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:55:02.834Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:55:02.834Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6332877c5e4cce4279448a"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63306c7c5ec78f1560dd75"
+    },
+    "name": "Collection",
+    "description": "Collection",
+    "sequence": 2,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:20.488Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:20.488Z"
+    }
+  },
+  "name": "Spice Collect",
+  "description": "Spice Collect",
+  "sequence": 6,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:55:19.451Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:55:19.451Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6332997c5e4cce4279448b"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f63306c7c5ec78f1560dd75"
+    },
+    "name": "Collection",
+    "description": "Collection",
+    "sequence": 2,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:20.488Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:20.488Z"
+    }
+  },
+  "name": "Non Veg Collect",
+  "description": "Non Veg Collect",
+  "sequence": 7,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:55:37.106Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:55:37.106Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6332eb7c5e4cce4279448c"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f6330797c5ec78f1560dd76"
+    },
+    "name": "Equipment",
+    "description": "Equipment",
+    "sequence": 3,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:33.476Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:33.476Z"
+    }
+  },
+  "name": "Stir",
+  "description": "Stir",
+  "sequence": 8,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:56:59.829Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:56:59.829Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6332fd7c5e4cce4279448d"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f6330797c5ec78f1560dd76"
+    },
+    "name": "Equipment",
+    "description": "Equipment",
+    "sequence": 3,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:33.476Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:33.476Z"
+    }
+  },
+  "name": "Serve",
+  "description": "Serve",
+  "sequence": 9,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:57:17.976Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:57:17.976Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63331c7c5e4cce4279448e"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f6330797c5ec78f1560dd76"
+    },
+    "name": "Equipment",
+    "description": "Equipment",
+    "sequence": 3,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T09:46:33.476Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T09:46:33.476Z"
+    }
+  },
+  "name": "Toss",
+  "description": "Toss",
+  "sequence": 10,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:57:48.413Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:57:48.413Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6379207c5eeb44a2187202"
+  },
+  "_class": "com.nala.model.Action",
+  "actionType": {
+    "_id": {
+      "$oid": "5f6378cd7c5eeb44a2187201"
+    },
+    "name": "Robot Movement",
+    "description": "Robot Movement",
+    "sequence": 4,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T14:55:09.572Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T14:55:09.572Z"
+    }
+  },
+  "name": "Stir2",
+  "description": "Stir2",
+  "sequence": 33,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:56:32.347Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:56:32.347Z"
+  }
+}]

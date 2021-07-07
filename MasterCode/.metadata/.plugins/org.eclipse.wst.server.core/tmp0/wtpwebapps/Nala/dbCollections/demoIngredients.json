@@ -1,0 +1,3531 @@
+[{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583998"
+  },
+  "ingredientId": 1,
+  "name": "Onions(Finely Chopped)",
+  "description": "Onions(Finely Chopped)",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 12,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c9901658399b"
+  },
+  "ingredientId": 2,
+  "name": "Green Chilli",
+  "description": "Green Chilli",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 12,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 12,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 40,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c9901658399e"
+  },
+  "ingredientId": 3,
+  "name": "Carrot",
+  "description": "Carrot",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 12,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839a1"
+  },
+  "ingredientId": 4,
+  "name": "Beans",
+  "description": "Beans",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 12,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 12,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839a4"
+  },
+  "ingredientId": 5,
+  "name": "Capsicum",
+  "description": "Capsicum",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839a7"
+  },
+  "ingredientId": 6,
+  "name": "Onions(Cubes)",
+  "description": "Onions(Cubes)",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839aa"
+  },
+  "ingredientId": 7,
+  "name": "Rice",
+  "description": "Rice",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 60,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839ad"
+  },
+  "ingredientId": 8,
+  "name": "Noodles",
+  "description": "Noodles",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 40,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839b0"
+  },
+  "ingredientId": 9,
+  "name": "Chicken(Fried rice pieces)",
+  "description": "Chicken(Fried rice pieces)",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839b3"
+  },
+  "ingredientId": 10,
+  "name": "Green Onions",
+  "description": "Green Onions",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 12,
+      "inchingTime": 1
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 12,
+      "inchingTime": 1
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839b6"
+  },
+  "ingredientId": 11,
+  "name": "Spare-2",
+  "description": "Spare-2",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839b9"
+  },
+  "ingredientId": 12,
+  "name": "Spare-3",
+  "description": "Spare-3",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839bc"
+  },
+  "ingredientId": 13,
+  "name": "Coriander leafs",
+  "description": "Coriander leafs",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 21,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839bf"
+  },
+  "ingredientId": 14,
+  "name": "Spring Onions",
+  "description": "Spring Onions",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 1
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 20,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 21,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839c2"
+  },
+  "ingredientId": 15,
+  "name": "Spare-4",
+  "description": "Spare-4",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839c5"
+  },
+  "ingredientId": 16,
+  "name": "Spare-5",
+  "description": "Spare-5",
+  "section": "VEG",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 0,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839c8"
+  },
+  "ingredientId": 17,
+  "name": "Chicken cubes",
+  "description": "Chicken cubes",
+  "section": "MEAT",
+  "classificationType": "MEAT",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 90,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 90,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 85,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 85,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 85,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 85,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 85,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839cb"
+  },
+  "ingredientId": 18,
+  "name": "Chicken Wings",
+  "description": "Chicken Wings",
+  "section": "MEAT",
+  "classificationType": "MEAT",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 90,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 90,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 85,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 85,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 85,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 2
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 85,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 3
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 85,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839ce"
+  },
+  "ingredientId": 19,
+  "name": "Shrimps",
+  "description": "Shrimps",
+  "section": "MEAT",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 90,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 90,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 85,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 85,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 85,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 85,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 85,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839d1"
+  },
+  "ingredientId": 20,
+  "name": "Chicken Pieces",
+  "description": "Chicken Pieces",
+  "section": "MEAT",
+  "classificationType": "MEAT",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 90,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 90,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 85,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 85,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 85,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 90,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 10,
+      "inchingTime": 3
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 85,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839d4"
+  },
+  "ingredientId": 21,
+  "name": "Manchurian balls",
+  "description": "Manchurian balls",
+  "section": "MEAT",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 90,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 90,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 85,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 85,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 85,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 85,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 85,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839d7"
+  },
+  "ingredientId": 22,
+  "name": "Spare",
+  "description": "Spare",
+  "section": "MEAT",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 30,
+      "cutOffPct": 90,
+      "normalOpsInPct": 5,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "cutOffPct": 90,
+      "normalOpsInPct": 10,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 2
+    },
+    {
+      "min": 51,
+      "max": 80,
+      "cutOffPct": 85,
+      "normalOpsInPct": 20,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "cutOffPct": 85,
+      "normalOpsInPct": 30,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 101,
+      "max": 200,
+      "cutOffPct": 85,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 201,
+      "max": 500,
+      "cutOffPct": 85,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    },
+    {
+      "min": 501,
+      "max": 1000,
+      "cutOffPct": 85,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 15,
+      "gapBtwInch": 7,
+      "inchingTime": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839da"
+  },
+  "ingredientId": 23,
+  "name": "Salt",
+  "description": "Salt",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839dd"
+  },
+  "ingredientId": 24,
+  "name": "Chilli powder",
+  "description": "Chilli powder",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839e0"
+  },
+  "ingredientId": 25,
+  "name": "Black pepper",
+  "description": "Black pepper",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839e3"
+  },
+  "ingredientId": 26,
+  "name": "White Pepper",
+  "description": "White Pepper",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839e6"
+  },
+  "ingredientId": 27,
+  "name": "Turmeric",
+  "description": "Turmeric",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839e9"
+  },
+  "ingredientId": 28,
+  "name": "Chicken masala",
+  "description": "Chicken masala",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839ec"
+  },
+  "ingredientId": 29,
+  "name": "Garam masala",
+  "description": "Garam masala",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839ef"
+  },
+  "ingredientId": 30,
+  "name": "Mixed masala",
+  "description": "Mixed masala",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839f2"
+  },
+  "ingredientId": 31,
+  "name": "Spare-1",
+  "description": "Spare-1",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839f5"
+  },
+  "ingredientId": 32,
+  "name": "Spare-2",
+  "description": "Spare-2",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839f8"
+  },
+  "ingredientId": 33,
+  "name": "Spare-3",
+  "description": "Spare-3",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839fb"
+  },
+  "ingredientId": 34,
+  "name": "Spare-4",
+  "description": "Spare-4",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c990165839fe"
+  },
+  "ingredientId": 35,
+  "name": "Ginger mince",
+  "description": "Ginger mince",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a01"
+  },
+  "ingredientId": 36,
+  "name": "Ginger and Garlic mince",
+  "description": "Ginger and Garlic mince",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a04"
+  },
+  "ingredientId": 37,
+  "name": "Spare-5",
+  "description": "Spare-5",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a07"
+  },
+  "ingredientId": 38,
+  "name": "Spare-6",
+  "description": "Spare-6",
+  "section": "SPICE",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2",
+  "dispenseSettings": [
+    {
+      "min": 0,
+      "max": 3,
+      "cutOffPct": 95,
+      "normalOpsInPct": 0,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 4,
+      "max": 5,
+      "cutOffPct": 95,
+      "normalOpsInPct": 50,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "cutOffPct": 95,
+      "normalOpsInPct": 70,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "cutOffPct": 95,
+      "normalOpsInPct": 80,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 16,
+      "max": 30,
+      "cutOffPct": 95,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 31,
+      "max": 60,
+      "cutOffPct": 98,
+      "normalOpsInPct": 90,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    },
+    {
+      "min": 61,
+      "max": 1000,
+      "cutOffPct": 99,
+      "normalOpsInPct": 95,
+      "normalOpsSpeed": 20,
+      "inchingSpeed": 20,
+      "gapBtwNormalAndInch": 10,
+      "gapBtwInch": 5,
+      "inchingTime": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a0a"
+  },
+  "ingredientId": 39,
+  "name": "Oil",
+  "description": "Oil",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a0d"
+  },
+  "ingredientId": 40,
+  "name": "Soya sauce",
+  "description": "Soya sauce",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a10"
+  },
+  "ingredientId": 41,
+  "name": "Venigar",
+  "description": "Venigar",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a13"
+  },
+  "ingredientId": 42,
+  "name": "Water",
+  "description": "Water",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a16"
+  },
+  "ingredientId": 43,
+  "name": "Tomato sauce",
+  "description": "Tomato sauce",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a19"
+  },
+  "ingredientId": 44,
+  "name": "Chilli sauce(Green)",
+  "description": "Chilli sauce(Green)",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a1c"
+  },
+  "ingredientId": 45,
+  "name": "Chilli sauce(Red)",
+  "description": "Chilli sauce(Red)",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a1f"
+  },
+  "ingredientId": 46,
+  "name": "Rum/Wine",
+  "description": "Rum/Wine",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a22"
+  },
+  "ingredientId": 47,
+  "name": "Spare-1",
+  "description": "Spare-1",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+},{
+  "_id": {
+    "$oid": "5ff6e78717a1c99016583a25"
+  },
+  "ingredientId": 48,
+  "name": "Spare-2",
+  "description": "Spare-2",
+  "section": "LIQUID",
+  "classificationType": "VEG",
+  "typeOfUsage": "moderate",
+  "weightToVolumeRatio": "1.5:2"
+}]

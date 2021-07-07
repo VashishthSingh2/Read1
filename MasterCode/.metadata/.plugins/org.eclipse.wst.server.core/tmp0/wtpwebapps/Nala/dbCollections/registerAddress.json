@@ -1,0 +1,2228 @@
+[{
+  "_id": {
+    "$oid": "60003c8817a1c9901658797e"
+  },
+  "registerId": 1,
+  "actionId": 1,
+  "actionName": "UTENSIL_PICK",
+  "typeOfAction": "UTENSIL_PICK_WRITE",
+  "burner1Register": 3001,
+  "burner2Register": 3501,
+  "burner3Register": 4001,
+  "burner4Register": 4501,
+  "description": "1",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587981"
+  },
+  "registerId": 2,
+  "actionId": 1,
+  "actionName": "UTENSIL_PICK",
+  "typeOfAction": "UTENSIL_TYPE_WRITE",
+  "burner1Register": 3002,
+  "burner2Register": 3502,
+  "burner3Register": 4002,
+  "burner4Register": 4502,
+  "description": "1 to 4",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587984"
+  },
+  "registerId": 3,
+  "actionId": 1,
+  "actionName": "UTENSIL_PICK",
+  "typeOfAction": "UTENSIL_PICK_READ",
+  "burner1Register": 3005,
+  "burner2Register": 3505,
+  "burner3Register": 4005,
+  "burner4Register": 4505,
+  "description": "1",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587987"
+  },
+  "registerId": 4,
+  "actionId": 1,
+  "actionName": "UTENSIL_PICK",
+  "typeOfAction": "UTENSIL_TYPE_READ",
+  "burner1Register": 3006,
+  "burner2Register": 3506,
+  "burner3Register": 4006,
+  "burner4Register": 4506,
+  "description": "1 to 4",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c9901658798a"
+  },
+  "registerId": 5,
+  "actionId": 1,
+  "actionName": "UTENSIL_PICK",
+  "typeOfAction": "UTENSIL_PICK_OPERATION_RUN_TIME",
+  "burner1Register": 3007,
+  "burner2Register": 3507,
+  "burner3Register": 4007,
+  "burner4Register": 4507,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c9901658798d"
+  },
+  "registerId": 6,
+  "actionId": 2,
+  "actionName": "SPATULA_PICK",
+  "typeOfAction": "SPATULA_PICK_WRITE",
+  "burner1Register": 3011,
+  "burner2Register": 3511,
+  "burner3Register": 4011,
+  "burner4Register": 4511,
+  "description": "2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587990"
+  },
+  "registerId": 7,
+  "actionId": 2,
+  "actionName": "SPATULA_PICK",
+  "typeOfAction": "SPATULA_TYPE_WRITE",
+  "burner1Register": 3012,
+  "burner2Register": 3512,
+  "burner3Register": 4012,
+  "burner4Register": 4512,
+  "description": "1 to 5",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587993"
+  },
+  "registerId": 8,
+  "actionId": 2,
+  "actionName": "SPATULA_PICK",
+  "typeOfAction": "SPATULA_PICK_READ",
+  "burner1Register": 3015,
+  "burner2Register": 3515,
+  "burner3Register": 4015,
+  "burner4Register": 4515,
+  "description": "2",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587996"
+  },
+  "registerId": 9,
+  "actionId": 2,
+  "actionName": "SPATULA_PICK",
+  "typeOfAction": "SPATULA_TYPE_READ",
+  "burner1Register": 3016,
+  "burner2Register": 3516,
+  "burner3Register": 4016,
+  "burner4Register": 4516,
+  "description": "1 to 15",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587999"
+  },
+  "registerId": 10,
+  "actionId": 2,
+  "actionName": "SPATULA_PICK",
+  "typeOfAction": "SPATULA_PICK_OPERATION_RUN_TIME",
+  "burner1Register": 3017,
+  "burner2Register": 3517,
+  "burner3Register": 4017,
+  "burner4Register": 4517,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c9901658799c"
+  },
+  "registerId": 11,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_WRITE",
+  "burner1Register": 3021,
+  "burner2Register": 3521,
+  "burner3Register": 4021,
+  "burner4Register": 4521,
+  "description": "3",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c9901658799f"
+  },
+  "registerId": 12,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_BIN_NUMBER_WRITE",
+  "burner1Register": 3022,
+  "burner2Register": 3522,
+  "burner3Register": 4022,
+  "burner4Register": 4522,
+  "description": "BIN NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879a2"
+  },
+  "registerId": 13,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_WEIGHT",
+  "burner1Register": 3023,
+  "burner2Register": 3523,
+  "burner3Register": 4023,
+  "burner4Register": 4523,
+  "description": "WEIGHT",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879a5"
+  },
+  "registerId": 14,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_READ",
+  "burner1Register": 3025,
+  "burner2Register": 3525,
+  "burner3Register": 4025,
+  "burner4Register": 4525,
+  "description": "3",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879a8"
+  },
+  "registerId": 15,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_BIN_NUMBER_READ",
+  "burner1Register": 3026,
+  "burner2Register": 3526,
+  "burner3Register": 4026,
+  "burner4Register": 4526,
+  "description": "BIN NUMBER",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879ab"
+  },
+  "registerId": 16,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_ACHIEVED_WEIGHT",
+  "burner1Register": 3027,
+  "burner2Register": 3527,
+  "burner3Register": 4027,
+  "burner4Register": 4527,
+  "description": "ACHIEVED WEIGHT",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879ae"
+  },
+  "registerId": 17,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_OPERATION_RUN_TIME",
+  "burner1Register": 3028,
+  "burner2Register": 3528,
+  "burner3Register": 4028,
+  "burner4Register": 4528,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879b1"
+  },
+  "registerId": 18,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_COLLECTION_WEIGHING_OPERATION_RUN_TIME",
+  "burner1Register": 3029,
+  "burner2Register": 3529,
+  "burner3Register": 4029,
+  "burner4Register": 4529,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879b4"
+  },
+  "registerId": 19,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_CUTOFF_IN_PCT",
+  "burner1Register": 3301,
+  "burner2Register": 3801,
+  "burner3Register": 4301,
+  "burner4Register": 4801,
+  "description": "MOTOR CUTOFF IN PCT",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879b7"
+  },
+  "registerId": 20,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_NORMAL_OPERATION_IN_PCT",
+  "burner1Register": 3302,
+  "burner2Register": 3802,
+  "burner3Register": 4302,
+  "burner4Register": 4802,
+  "description": "MOTOR NORMAL OPEARTION IN PERCENTAGE",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879ba"
+  },
+  "registerId": 21,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_NORMAL_OPEARATION_SPEED",
+  "burner1Register": 3303,
+  "burner2Register": 3803,
+  "burner3Register": 4303,
+  "burner4Register": 4803,
+  "description": "NORMAL OPERATION MOTOR SPEED",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879bd"
+  },
+  "registerId": 22,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_INCHING_OPEARATION_SPEED",
+  "burner1Register": 3304,
+  "burner2Register": 3804,
+  "burner3Register": 4304,
+  "burner4Register": 4804,
+  "description": "INCHING OPERATION MOTOR SPEED",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879c0"
+  },
+  "registerId": 23,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_TIME_GAP_BETWEEN_NORMAL_AND_INCH_OPERATION",
+  "burner1Register": 3305,
+  "burner2Register": 3805,
+  "burner3Register": 4305,
+  "burner4Register": 4805,
+  "description": "TIME GAP BETWEEN NORMAL AND INCH OPERATION",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879c3"
+  },
+  "registerId": 24,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_TIME_GAP_BETWEEN_INCHING",
+  "burner1Register": 3306,
+  "burner2Register": 3806,
+  "burner3Register": 4306,
+  "burner4Register": 4806,
+  "description": "TIME GAP BETWEEN INCHING",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879c6"
+  },
+  "registerId": 25,
+  "actionId": 3,
+  "actionName": "VEG_COLLECTION",
+  "typeOfAction": "VEG_MOTOR_INCHING_TIME",
+  "burner1Register": 3307,
+  "burner2Register": 3807,
+  "burner3Register": 4307,
+  "burner4Register": 4807,
+  "description": "INCHING TIME",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879c9"
+  },
+  "registerId": 26,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_WRITE",
+  "burner1Register": 3031,
+  "burner2Register": 3531,
+  "burner3Register": 4031,
+  "burner4Register": 4531,
+  "description": "4",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879cc"
+  },
+  "registerId": 27,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_BIN_NUMBER_WRITE",
+  "burner1Register": 3032,
+  "burner2Register": 3532,
+  "burner3Register": 4032,
+  "burner4Register": 4532,
+  "description": "BIN NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879cf"
+  },
+  "registerId": 28,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_WEIGHT",
+  "burner1Register": 3033,
+  "burner2Register": 3533,
+  "burner3Register": 4033,
+  "burner4Register": 4533,
+  "description": "WEIGHT",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879d2"
+  },
+  "registerId": 29,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_READ",
+  "burner1Register": 3035,
+  "burner2Register": 3535,
+  "burner3Register": 4035,
+  "burner4Register": 4535,
+  "description": "4",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879d5"
+  },
+  "registerId": 30,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_BIN_NUMBER_READ",
+  "burner1Register": 3036,
+  "burner2Register": 3536,
+  "burner3Register": 4036,
+  "burner4Register": 4536,
+  "description": "BIN NUMBER",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879d8"
+  },
+  "registerId": 31,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_ACHIEVED_WEIGHT",
+  "burner1Register": 3037,
+  "burner2Register": 3537,
+  "burner3Register": 4037,
+  "burner4Register": 4537,
+  "description": "ACHIEVED WEIGHT",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879db"
+  },
+  "registerId": 32,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_OPERATION_RUN_TIME",
+  "burner1Register": 3038,
+  "burner2Register": 3538,
+  "burner3Register": 4038,
+  "burner4Register": 4538,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879de"
+  },
+  "registerId": 33,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_COLLECTION_WEIGHING_OPERATION_RUN_TIME",
+  "burner1Register": 3039,
+  "burner2Register": 3539,
+  "burner3Register": 4039,
+  "burner4Register": 4539,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879e1"
+  },
+  "registerId": 34,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_CUTOFF_IN_PCT",
+  "burner1Register": 3311,
+  "burner2Register": 3811,
+  "burner3Register": 4311,
+  "burner4Register": 4811,
+  "description": "MOTOR CUTOFF IN PCT",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879e4"
+  },
+  "registerId": 35,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_NORMAL_OPERATION_IN_PCT",
+  "burner1Register": 3312,
+  "burner2Register": 3812,
+  "burner3Register": 4312,
+  "burner4Register": 4812,
+  "description": "MOTOR NORMAL OPEARTION IN PERCENTAGE",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879e7"
+  },
+  "registerId": 36,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_NORMAL_OPEARATION_SPEED",
+  "burner1Register": 3313,
+  "burner2Register": 3813,
+  "burner3Register": 4313,
+  "burner4Register": 4813,
+  "description": "NORMAL OPERATION MOTOR SPEED",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879ea"
+  },
+  "registerId": 37,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_INCHING_OPEARATION_SPEED",
+  "burner1Register": 3314,
+  "burner2Register": 3814,
+  "burner3Register": 4314,
+  "burner4Register": 4814,
+  "description": "INCHING OPERATION MOTOR SPEED",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879ed"
+  },
+  "registerId": 38,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_TIME_GAP_BETWEEN_NORMAL_AND_INCH_OPERATION",
+  "burner1Register": 3315,
+  "burner2Register": 3815,
+  "burner3Register": 4315,
+  "burner4Register": 4815,
+  "description": "TIME GAP BETWEEN NORMAL AND INCH OPERATION",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879f0"
+  },
+  "registerId": 39,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_TIME_GAP_BETWEEN_INCHING",
+  "burner1Register": 3316,
+  "burner2Register": 3816,
+  "burner3Register": 4316,
+  "burner4Register": 4816,
+  "description": "TIME GAP BETWEEN INCHING",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879f3"
+  },
+  "registerId": 40,
+  "actionId": 4,
+  "actionName": "SPICE_COLLECTION",
+  "typeOfAction": "SPICE_MOTOR_INCHING_TIME",
+  "burner1Register": 3317,
+  "burner2Register": 3817,
+  "burner3Register": 4317,
+  "burner4Register": 4817,
+  "description": "INCHING TIME",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879f6"
+  },
+  "registerId": 41,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_WRITE",
+  "burner1Register": 3041,
+  "burner2Register": 3541,
+  "burner3Register": 4041,
+  "burner4Register": 4541,
+  "description": "5",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879f9"
+  },
+  "registerId": 42,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_BIN_NUMBER_WRITE",
+  "burner1Register": 3042,
+  "burner2Register": 3542,
+  "burner3Register": 4042,
+  "burner4Register": 4542,
+  "description": "BIN NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879fc"
+  },
+  "registerId": 43,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_WEIGHT",
+  "burner1Register": 3043,
+  "burner2Register": 3543,
+  "burner3Register": 4043,
+  "burner4Register": 4543,
+  "description": "WEIGHT",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c990165879ff"
+  },
+  "registerId": 44,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_READ",
+  "burner1Register": 3045,
+  "burner2Register": 3545,
+  "burner3Register": 4045,
+  "burner4Register": 4545,
+  "description": "5",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a02"
+  },
+  "registerId": 45,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_BIN_NUMBER_READ",
+  "burner1Register": 3046,
+  "burner2Register": 3546,
+  "burner3Register": 4046,
+  "burner4Register": 4546,
+  "description": "BIN NUMBER",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a05"
+  },
+  "registerId": 46,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_ACHIEVED_WEIGHT",
+  "burner1Register": 3047,
+  "burner2Register": 3547,
+  "burner3Register": 4047,
+  "burner4Register": 4547,
+  "description": "ACHIEVED WEIGHT",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a08"
+  },
+  "registerId": 47,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_OPERATION_RUN_TIME",
+  "burner1Register": 3048,
+  "burner2Register": 3548,
+  "burner3Register": 4048,
+  "burner4Register": 4548,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a0b"
+  },
+  "registerId": 48,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_COLLECTION_WEIGHING_OPERATION_RUN_TIME",
+  "burner1Register": 3049,
+  "burner2Register": 3549,
+  "burner3Register": 4049,
+  "burner4Register": 4549,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a0e"
+  },
+  "registerId": 49,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_CUTOFF_IN_PCT",
+  "burner1Register": 3321,
+  "burner2Register": 3821,
+  "burner3Register": 4321,
+  "burner4Register": 4821,
+  "description": "MOTOR CUTOFF IN PCT",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a11"
+  },
+  "registerId": 50,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_NORMAL_OPERATION_IN_PCT",
+  "burner1Register": 3322,
+  "burner2Register": 3822,
+  "burner3Register": 4322,
+  "burner4Register": 4822,
+  "description": "MOTOR NORMAL OPEARTION IN PERCENTAGE",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a14"
+  },
+  "registerId": 51,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_NORMAL_OPEARATION_SPEED",
+  "burner1Register": 3323,
+  "burner2Register": 3823,
+  "burner3Register": 4323,
+  "burner4Register": 4823,
+  "description": "NORMAL OPERATION MOTOR SPEED",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a17"
+  },
+  "registerId": 52,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_INCHING_OPEARATION_SPEED",
+  "burner1Register": 3324,
+  "burner2Register": 3824,
+  "burner3Register": 4324,
+  "burner4Register": 4824,
+  "description": "INCHING OPERATION MOTOR SPEED",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a1a"
+  },
+  "registerId": 53,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_TIME_GAP_BETWEEN_NORMAL_AND_INCH_OPERATION",
+  "burner1Register": 3325,
+  "burner2Register": 3825,
+  "burner3Register": 4325,
+  "burner4Register": 4825,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a1d"
+  },
+  "registerId": 54,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_TIME_GAP_BETWEEN_INCHING",
+  "burner1Register": 3326,
+  "burner2Register": 3826,
+  "burner3Register": 4326,
+  "burner4Register": 4826,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a20"
+  },
+  "registerId": 55,
+  "actionId": 5,
+  "actionName": "MEAT_COLLECTION",
+  "typeOfAction": "MEAT_MOTOR_INCHING_TIME",
+  "burner1Register": 3327,
+  "burner2Register": 3827,
+  "burner3Register": 4327,
+  "burner4Register": 4827,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a23"
+  },
+  "registerId": 56,
+  "actionId": 6,
+  "actionName": "VEG_PICKUP",
+  "typeOfAction": "VEG_PICKUP_WRITE",
+  "burner1Register": 3051,
+  "burner2Register": 3551,
+  "burner3Register": 4051,
+  "burner4Register": 4551,
+  "description": "6",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a26"
+  },
+  "registerId": 57,
+  "actionId": 6,
+  "actionName": "VEG_PICKUP",
+  "typeOfAction": "VEG_PICKUP_LOCATION_WRITE",
+  "burner1Register": 3052,
+  "burner2Register": 3552,
+  "burner3Register": 4052,
+  "burner4Register": 4552,
+  "description": "1 OR 2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a29"
+  },
+  "registerId": 58,
+  "actionId": 6,
+  "actionName": "VEG_PICKUP",
+  "typeOfAction": "VEG_PICKUP_READ",
+  "burner1Register": 3055,
+  "burner2Register": 3555,
+  "burner3Register": 4055,
+  "burner4Register": 4555,
+  "description": "6",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a2c"
+  },
+  "registerId": 59,
+  "actionId": 6,
+  "actionName": "VEG_PICKUP",
+  "typeOfAction": "VEG_PICKUP_LOCATION_READ",
+  "burner1Register": 3056,
+  "burner2Register": 3556,
+  "burner3Register": 4056,
+  "burner4Register": 4556,
+  "description": "1 OR 2",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a2f"
+  },
+  "registerId": 60,
+  "actionId": 6,
+  "actionName": "VEG_PICKUP",
+  "typeOfAction": "VEG_PICKUP_OPERATION_RUN_TIME",
+  "burner1Register": 3057,
+  "burner2Register": 3557,
+  "burner3Register": 4057,
+  "burner4Register": 4557,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a32"
+  },
+  "registerId": 61,
+  "actionId": 7,
+  "actionName": "SPICE_PICKUP",
+  "typeOfAction": "SPICE_PICKUP_WRITE",
+  "burner1Register": 3061,
+  "burner2Register": 3561,
+  "burner3Register": 4061,
+  "burner4Register": 4561,
+  "description": "7",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a35"
+  },
+  "registerId": 62,
+  "actionId": 7,
+  "actionName": "SPICE_PICKUP",
+  "typeOfAction": "SPICE_PICKUP_LOCATION_WRITE",
+  "burner1Register": 3062,
+  "burner2Register": 3562,
+  "burner3Register": 4062,
+  "burner4Register": 4562,
+  "description": "1 OR 2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a38"
+  },
+  "registerId": 63,
+  "actionId": 7,
+  "actionName": "SPICE_PICKUP",
+  "typeOfAction": "SPICE_PICKUP_READ",
+  "burner1Register": 3065,
+  "burner2Register": 3565,
+  "burner3Register": 4065,
+  "burner4Register": 4565,
+  "description": "7",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a3b"
+  },
+  "registerId": 64,
+  "actionId": 7,
+  "actionName": "SPICE_PICKUP",
+  "typeOfAction": "SPICE_PICKUP_LOCATION_READ",
+  "burner1Register": 3066,
+  "burner2Register": 3566,
+  "burner3Register": 4066,
+  "burner4Register": 4566,
+  "description": "1 OR 2",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a3e"
+  },
+  "registerId": 65,
+  "actionId": 7,
+  "actionName": "SPICE_PICKUP",
+  "typeOfAction": "SPICE_PICKUP_OPERATION_RUN_TIME",
+  "burner1Register": 3067,
+  "burner2Register": 3567,
+  "burner3Register": 4067,
+  "burner4Register": 4567,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a41"
+  },
+  "registerId": 66,
+  "actionId": 8,
+  "actionName": "MEAT_PICKUP",
+  "typeOfAction": "MEAT_PICKUP_WRITE",
+  "burner1Register": 3071,
+  "burner2Register": 3571,
+  "burner3Register": 4071,
+  "burner4Register": 4571,
+  "description": "8",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a44"
+  },
+  "registerId": 67,
+  "actionId": 8,
+  "actionName": "MEAT_PICKUP",
+  "typeOfAction": "MEAT_PICKUP_LOCATION_WRITE",
+  "burner1Register": 3072,
+  "burner2Register": 3572,
+  "burner3Register": 4072,
+  "burner4Register": 4572,
+  "description": "1 OR 2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a47"
+  },
+  "registerId": 68,
+  "actionId": 8,
+  "actionName": "MEAT_PICKUP",
+  "typeOfAction": "MEAT_PICKUP_READ",
+  "burner1Register": 3075,
+  "burner2Register": 3575,
+  "burner3Register": 4075,
+  "burner4Register": 4575,
+  "description": "8",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a4a"
+  },
+  "registerId": 69,
+  "actionId": 8,
+  "actionName": "MEAT_PICKUP",
+  "typeOfAction": "MEAT_PICKUP_LOCATION_READ",
+  "burner1Register": 3076,
+  "burner2Register": 3576,
+  "burner3Register": 4076,
+  "burner4Register": 4576,
+  "description": "1 OR 2",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a4d"
+  },
+  "registerId": 70,
+  "actionId": 8,
+  "actionName": "MEAT_PICKUP",
+  "typeOfAction": "MEAT_PICKUP_OPERATION_RUN_TIME",
+  "burner1Register": 3077,
+  "burner2Register": 3577,
+  "burner3Register": 4077,
+  "burner4Register": 4577,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a50"
+  },
+  "registerId": 71,
+  "actionId": 9,
+  "actionName": "IGNITION",
+  "typeOfAction": "IGNITION_WRITE",
+  "burner1Register": 3081,
+  "burner2Register": 3581,
+  "burner3Register": 4081,
+  "burner4Register": 4581,
+  "description": "9",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a53"
+  },
+  "registerId": 72,
+  "actionId": 9,
+  "actionName": "IGNITION",
+  "typeOfAction": "IGNITION_DELAY_TIME",
+  "burner1Register": 3084,
+  "burner2Register": 3584,
+  "burner3Register": 4084,
+  "burner4Register": 4584,
+  "description": "DELAY TIME",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a56"
+  },
+  "registerId": 73,
+  "actionId": 9,
+  "actionName": "IGNITION",
+  "typeOfAction": "IGNITION_READ",
+  "burner1Register": 3085,
+  "burner2Register": 3585,
+  "burner3Register": 4085,
+  "burner4Register": 4585,
+  "description": "9",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a59"
+  },
+  "registerId": 74,
+  "actionId": 9,
+  "actionName": "IGNITION",
+  "typeOfAction": "IGNITION_OPERATION_RUN_TIME",
+  "burner1Register": 3087,
+  "burner2Register": 3587,
+  "burner3Register": 4087,
+  "burner4Register": 4587,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a5c"
+  },
+  "registerId": 75,
+  "actionId": 9,
+  "actionName": "IGNITION",
+  "typeOfAction": "FLAME_SET_POINT",
+  "burner1Register": 3401,
+  "burner2Register": 3901,
+  "burner3Register": 4401,
+  "burner4Register": 4901,
+  "description": "FLAME SET POINT WRITE",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a5f"
+  },
+  "registerId": 76,
+  "actionId": 9,
+  "actionName": "IGNITION",
+  "typeOfAction": "FLAME_LEVEL_READ",
+  "burner1Register": 3402,
+  "burner2Register": 3902,
+  "burner3Register": 4402,
+  "burner4Register": 4902,
+  "description": "FLAME SET POINT READ",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a62"
+  },
+  "registerId": 77,
+  "actionId": 10,
+  "actionName": "STIRR",
+  "typeOfAction": "STIRR_WRITE",
+  "burner1Register": 3091,
+  "burner2Register": 3591,
+  "burner3Register": 4091,
+  "burner4Register": 4591,
+  "description": "10",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a65"
+  },
+  "registerId": 78,
+  "actionId": 10,
+  "actionName": "STIRR",
+  "typeOfAction": "STIRR_STIR_TYPE_NUMBER_WRITE",
+  "burner1Register": 3092,
+  "burner2Register": 3592,
+  "burner3Register": 4092,
+  "burner4Register": 4592,
+  "description": "TYPE OF STIRR",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a68"
+  },
+  "registerId": 79,
+  "actionId": 10,
+  "actionName": "STIRR",
+  "typeOfAction": "STIRR_TIME_IN_MILLI_SEC",
+  "burner1Register": 3093,
+  "burner2Register": 3593,
+  "burner3Register": 4093,
+  "burner4Register": 4593,
+  "description": "STIRR ACTION TIME IN SEC",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a6b"
+  },
+  "registerId": 80,
+  "actionId": 10,
+  "actionName": "STIRR",
+  "typeOfAction": "STIRR_READ",
+  "burner1Register": 3095,
+  "burner2Register": 3595,
+  "burner3Register": 4095,
+  "burner4Register": 4595,
+  "description": "10",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a6e"
+  },
+  "registerId": 81,
+  "actionId": 10,
+  "actionName": "STIRR",
+  "typeOfAction": "STIRR_STIR_TYPE_NUMBER_READ",
+  "burner1Register": 3096,
+  "burner2Register": 3596,
+  "burner3Register": 4096,
+  "burner4Register": 4596,
+  "description": "TYPE OF STIRR",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a71"
+  },
+  "registerId": 82,
+  "actionId": 10,
+  "actionName": "STIRR",
+  "typeOfAction": "STIRR_OPERATION_RUN_TIME",
+  "burner1Register": 3097,
+  "burner2Register": 3597,
+  "burner3Register": 4097,
+  "burner4Register": 4597,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a74"
+  },
+  "registerId": 83,
+  "actionId": 11,
+  "actionName": "TOSS",
+  "typeOfAction": "TOSS_WRITE",
+  "burner1Register": 3101,
+  "burner2Register": 3601,
+  "burner3Register": 4101,
+  "burner4Register": 4601,
+  "description": "11",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a77"
+  },
+  "registerId": 84,
+  "actionId": 11,
+  "actionName": "TOSS",
+  "typeOfAction": "TOSS_TOSS_TYPE_NUMBER_WRITE",
+  "burner1Register": 3102,
+  "burner2Register": 3602,
+  "burner3Register": 4102,
+  "burner4Register": 4602,
+  "description": "TYPE OF TOSS",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a7a"
+  },
+  "registerId": 85,
+  "actionId": 11,
+  "actionName": "TOSS",
+  "typeOfAction": "TOSS_TIME_IN_MILLI_SEC",
+  "burner1Register": 3103,
+  "burner2Register": 3603,
+  "burner3Register": 4103,
+  "burner4Register": 4603,
+  "description": "STIRR ACTION TIME IN SEC",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a7d"
+  },
+  "registerId": 86,
+  "actionId": 11,
+  "actionName": "TOSS",
+  "typeOfAction": "TOSS_READ",
+  "burner1Register": 3105,
+  "burner2Register": 3605,
+  "burner3Register": 4105,
+  "burner4Register": 4605,
+  "description": "11",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a80"
+  },
+  "registerId": 87,
+  "actionId": 11,
+  "actionName": "TOSS",
+  "typeOfAction": "TOSS_TOSS_TYPE_NUMBER_READ",
+  "burner1Register": 3106,
+  "burner2Register": 3606,
+  "burner3Register": 4106,
+  "burner4Register": 4606,
+  "description": "TYPE OF TOSS",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a83"
+  },
+  "registerId": 88,
+  "actionId": 11,
+  "actionName": "TOSS",
+  "typeOfAction": "TOSS_OPERATION_RUN_TIME",
+  "burner1Register": 3107,
+  "burner2Register": 3607,
+  "burner3Register": 4107,
+  "burner4Register": 4607,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a86"
+  },
+  "registerId": 89,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_WRITE",
+  "burner1Register": 3111,
+  "burner2Register": 3611,
+  "burner3Register": 4111,
+  "burner4Register": 4611,
+  "description": "12",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a89"
+  },
+  "registerId": 90,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_1",
+  "burner1Register": 3112,
+  "burner2Register": 3612,
+  "burner3Register": 4112,
+  "burner4Register": 4612,
+  "description": "BIN NUMBER 1",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a8c"
+  },
+  "registerId": 91,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_DELAY_TIME_1",
+  "burner1Register": 3113,
+  "burner2Register": 3613,
+  "burner3Register": 4113,
+  "burner4Register": 4613,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a8f"
+  },
+  "registerId": 92,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_2",
+  "burner1Register": 3114,
+  "burner2Register": 3614,
+  "burner3Register": 4114,
+  "burner4Register": 4614,
+  "description": "BIN NUMBER 2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a92"
+  },
+  "registerId": 93,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_DELAY_TIME_2",
+  "burner1Register": 3115,
+  "burner2Register": 3615,
+  "burner3Register": 4115,
+  "burner4Register": 4615,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a95"
+  },
+  "registerId": 94,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_3",
+  "burner1Register": 3116,
+  "burner2Register": 3616,
+  "burner3Register": 4116,
+  "burner4Register": 4616,
+  "description": "BIN NUMBER 3",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a98"
+  },
+  "registerId": 95,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_DELAY_TIME_3",
+  "burner1Register": 3117,
+  "burner2Register": 3617,
+  "burner3Register": 4117,
+  "burner4Register": 4617,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a9b"
+  },
+  "registerId": 96,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_4",
+  "burner1Register": 3118,
+  "burner2Register": 3618,
+  "burner3Register": 4118,
+  "burner4Register": 4618,
+  "description": "BIN NUMBER 4",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587a9e"
+  },
+  "registerId": 97,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_DELAY_TIME_4",
+  "burner1Register": 3119,
+  "burner2Register": 3619,
+  "burner3Register": 4119,
+  "burner4Register": 4619,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aa1"
+  },
+  "registerId": 98,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_5",
+  "burner1Register": 3120,
+  "burner2Register": 3620,
+  "burner3Register": 4120,
+  "burner4Register": 4620,
+  "description": "BIN NUMBER 5",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aa4"
+  },
+  "registerId": 99,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_DELAY_TIME_5",
+  "burner1Register": 3121,
+  "burner2Register": 3621,
+  "burner3Register": 4121,
+  "burner4Register": 4621,
+  "description": "DELAY TIME IN MILLISEC/100",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aa7"
+  },
+  "registerId": 100,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_1_OPERATION_RUN_TIME",
+  "burner1Register": 3122,
+  "burner2Register": 3622,
+  "burner3Register": 4122,
+  "burner4Register": 4622,
+  "description": "TIME IN MILLI SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aaa"
+  },
+  "registerId": 101,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_2_OPERATION_RUN_TIME",
+  "burner1Register": 3123,
+  "burner2Register": 3623,
+  "burner3Register": 4123,
+  "burner4Register": 4623,
+  "description": "TIME IN MILLI SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aad"
+  },
+  "registerId": 102,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_3_OPERATION_RUN_TIME",
+  "burner1Register": 3124,
+  "burner2Register": 3624,
+  "burner3Register": 4124,
+  "burner4Register": 4624,
+  "description": "TIME IN MILLI SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ab0"
+  },
+  "registerId": 103,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_4_OPERATION_RUN_TIME",
+  "burner1Register": 3125,
+  "burner2Register": 3625,
+  "burner3Register": 4125,
+  "burner4Register": 4625,
+  "description": "TIME IN MILLI SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ab3"
+  },
+  "registerId": 104,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_LIQ_BIN_NUMBER_5_OPERATION_RUN_TIME",
+  "burner1Register": 3126,
+  "burner2Register": 3626,
+  "burner3Register": 4126,
+  "burner4Register": 4626,
+  "description": "TIME IN MILLI SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ab6"
+  },
+  "registerId": 105,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_READ",
+  "burner1Register": 3129,
+  "burner2Register": 3629,
+  "burner3Register": 4129,
+  "burner4Register": 4629,
+  "description": "12",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ab9"
+  },
+  "registerId": 106,
+  "actionId": 12,
+  "actionName": "LIQUID_DISPENSING",
+  "typeOfAction": "LIQUID_DISPENSING_OPERATION_RUN_TIME",
+  "burner1Register": 3130,
+  "burner2Register": 3630,
+  "burner3Register": 4130,
+  "burner4Register": 4630,
+  "description": "TIME IN MILLI SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587abc"
+  },
+  "registerId": 107,
+  "actionId": 13,
+  "actionName": "DELAY",
+  "typeOfAction": "DELAY_WRITE",
+  "burner1Register": 3131,
+  "burner2Register": 3631,
+  "burner3Register": 4131,
+  "burner4Register": 4631,
+  "description": "13",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587abf"
+  },
+  "registerId": 108,
+  "actionId": 13,
+  "actionName": "DELAY",
+  "typeOfAction": "DELAY_DELAY_TIME",
+  "burner1Register": 3134,
+  "burner2Register": 3634,
+  "burner3Register": 4134,
+  "burner4Register": 4634,
+  "description": "DELAY TIME",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ac2"
+  },
+  "registerId": 109,
+  "actionId": 13,
+  "actionName": "DELAY",
+  "typeOfAction": "DELAY_READ",
+  "burner1Register": 3135,
+  "burner2Register": 3635,
+  "burner3Register": 4135,
+  "burner4Register": 4635,
+  "description": "13",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ac5"
+  },
+  "registerId": 110,
+  "actionId": 13,
+  "actionName": "DELAY",
+  "typeOfAction": "DELAY_OPERATION_RUN_TIME",
+  "burner1Register": 3137,
+  "burner2Register": 3637,
+  "burner3Register": 4137,
+  "burner4Register": 4637,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ac8"
+  },
+  "registerId": 111,
+  "actionId": 14,
+  "actionName": "FRYER_PICKUP",
+  "typeOfAction": "FRYER_PICKUP_WRITE",
+  "burner1Register": 3141,
+  "burner2Register": 3641,
+  "burner3Register": 4141,
+  "burner4Register": 4641,
+  "description": "14",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587acb"
+  },
+  "registerId": 112,
+  "actionId": 14,
+  "actionName": "FRYER_PICKUP",
+  "typeOfAction": "FRYER_PICKUP_LOCATION",
+  "burner1Register": 3142,
+  "burner2Register": 3642,
+  "burner3Register": 4142,
+  "burner4Register": 4642,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ace"
+  },
+  "registerId": 113,
+  "actionId": 14,
+  "actionName": "FRYER_PICKUP",
+  "typeOfAction": "FRYER_PICKUP_DROP_LOCATION",
+  "burner1Register": 3143,
+  "burner2Register": 3643,
+  "burner3Register": 4143,
+  "burner4Register": 4643,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ad1"
+  },
+  "registerId": 114,
+  "actionId": 14,
+  "actionName": "FRYER_PICKUP",
+  "typeOfAction": "FRYER_PICKUP_BOLW_CHANGE_OR_WITHOUT_BOLW_CHANGE",
+  "burner1Register": 3144,
+  "burner2Register": 3644,
+  "burner3Register": 4144,
+  "burner4Register": 4644,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ad4"
+  },
+  "registerId": 115,
+  "actionId": 14,
+  "actionName": "FRYER_PICKUP",
+  "typeOfAction": "FRYER_PICKUP_READ",
+  "burner1Register": 3145,
+  "burner2Register": 3645,
+  "burner3Register": 4145,
+  "burner4Register": 4645,
+  "description": "14",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ad7"
+  },
+  "registerId": 116,
+  "actionId": 14,
+  "actionName": "FRYER_PICKUP",
+  "typeOfAction": "FRYER_PICKUP_OPERATION_RUN_TIME",
+  "burner1Register": 3147,
+  "burner2Register": 3647,
+  "burner3Register": 4147,
+  "burner4Register": 4647,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ada"
+  },
+  "registerId": 117,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_WRITE",
+  "burner1Register": 3151,
+  "burner2Register": 3651,
+  "burner3Register": 4151,
+  "burner4Register": 4651,
+  "description": "15",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587add"
+  },
+  "registerId": 118,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_POOL_LOCATION",
+  "burner1Register": 3152,
+  "burner2Register": 3652,
+  "burner3Register": 4152,
+  "burner4Register": 4652,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ae0"
+  },
+  "registerId": 119,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_DELAY_TIME",
+  "burner1Register": 3153,
+  "burner2Register": 3653,
+  "burner3Register": 4153,
+  "burner4Register": 4653,
+  "description": "TIME IN SEC.",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ae3"
+  },
+  "registerId": 120,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_TOSS_INTERVEL",
+  "burner1Register": 3154,
+  "burner2Register": 3654,
+  "burner3Register": 4154,
+  "burner4Register": 4654,
+  "description": "TIME IN SEC.",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ae6"
+  },
+  "registerId": 121,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_TOSS_TYPE",
+  "burner1Register": 3155,
+  "burner2Register": 3655,
+  "burner3Register": 4155,
+  "burner4Register": 4655,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587ae9"
+  },
+  "registerId": 122,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_READ",
+  "burner1Register": 3159,
+  "burner2Register": 3659,
+  "burner3Register": 4159,
+  "burner4Register": 4659,
+  "description": "15",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aec"
+  },
+  "registerId": 123,
+  "actionId": 15,
+  "actionName": "FRYER_ACTION",
+  "typeOfAction": "FRYER_ACTION_OPERATION_RUN_TIME",
+  "burner1Register": 3160,
+  "burner2Register": 3660,
+  "burner3Register": 4160,
+  "burner4Register": 4660,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587aef"
+  },
+  "registerId": 124,
+  "actionId": 16,
+  "actionName": "FRYER_SERVE",
+  "typeOfAction": "FRYER_SERVE_WRITE",
+  "burner1Register": 3161,
+  "burner2Register": 3661,
+  "burner3Register": 4161,
+  "burner4Register": 4661,
+  "description": "16",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587af2"
+  },
+  "registerId": 125,
+  "actionId": 16,
+  "actionName": "FRYER_SERVE",
+  "typeOfAction": "FRYER_SERVE_LOCATION_POOL1_OR_POOL2",
+  "burner1Register": 3162,
+  "burner2Register": 3662,
+  "burner3Register": 4162,
+  "burner4Register": 4662,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587af5"
+  },
+  "registerId": 126,
+  "actionId": 16,
+  "actionName": "FRYER_SERVE",
+  "typeOfAction": "FRYER_SERVE_TRANSFER_OR_SERVE",
+  "burner1Register": 3163,
+  "burner2Register": 3663,
+  "burner3Register": 4163,
+  "burner4Register": 4663,
+  "description": "NUMBER",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587af8"
+  },
+  "registerId": 127,
+  "actionId": 16,
+  "actionName": "FRYER_SERVE",
+  "typeOfAction": "FRYER_SERVE_READ",
+  "burner1Register": 3165,
+  "burner2Register": 3665,
+  "burner3Register": 4165,
+  "burner4Register": 4665,
+  "description": "16",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587afb"
+  },
+  "registerId": 128,
+  "actionId": 16,
+  "actionName": "FRYER_SERVE",
+  "typeOfAction": "FRYER_SERVE_OPERATION_RUN_TIME",
+  "burner1Register": 3167,
+  "burner2Register": 3667,
+  "burner3Register": 4167,
+  "burner4Register": 4667,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587afe"
+  },
+  "registerId": 129,
+  "actionId": 17,
+  "actionName": "SERVE",
+  "typeOfAction": "SERVE_WRITE",
+  "burner1Register": 3171,
+  "burner2Register": 3671,
+  "burner3Register": 4171,
+  "burner4Register": 4671,
+  "description": "17",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ",
+  "operationType": 1
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587b01"
+  },
+  "registerId": 130,
+  "actionId": 17,
+  "actionName": "SERVE",
+  "typeOfAction": "SERVE_READ",
+  "burner1Register": 3175,
+  "burner2Register": 3675,
+  "burner3Register": 4175,
+  "burner4Register": 4675,
+  "description": "17",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+},{
+  "_id": {
+    "$oid": "60003c8817a1c99016587b04"
+  },
+  "registerId": 131,
+  "actionId": 17,
+  "actionName": "SERVE",
+  "typeOfAction": "SERVE_OPERATION_RUN_TIME",
+  "burner1Register": 3177,
+  "burner2Register": 3677,
+  "burner3Register": 4177,
+  "burner4Register": 4677,
+  "description": "TIME IN SEC",
+  "javaPreOperations": "",
+  "javaPostOperations": "READ, WRITE, READ",
+  "plcOperations": "WRITE",
+  "operationType": 2
+}]

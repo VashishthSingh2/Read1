@@ -1,0 +1,341 @@
+[{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6e97"
+  },
+  "actionId": 1,
+  "actionName": "UTENSIL PICK ",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": true,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": true,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6e9a"
+  },
+  "actionId": 2,
+  "actionName": "SPATULA PICK",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": false,
+  "isStationDependent": true,
+  "isHoldingStationDependent": true,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": true,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6e9d"
+  },
+  "actionId": 3,
+  "actionName": "VEGG COLLECTION",
+  "isRackDependent": true,
+  "isRoboDependent": false,
+  "isBurnerDependent": false,
+  "isStationDependent": false,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": false,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ea0"
+  },
+  "actionId": 4,
+  "actionName": "SPICE COLLECTION",
+  "isRackDependent": true,
+  "isRoboDependent": false,
+  "isBurnerDependent": false,
+  "isStationDependent": false,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": false,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ea3"
+  },
+  "actionId": 5,
+  "actionName": "MEAT COLLECTION",
+  "isRackDependent": true,
+  "isRoboDependent": false,
+  "isBurnerDependent": false,
+  "isStationDependent": false,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": false,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ea6"
+  },
+  "actionId": 6,
+  "actionName": "VEGG PICKUP ",
+  "isRackDependent": true,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": true,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": true,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": true,
+  "isTossDependent": true,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ea9"
+  },
+  "actionId": 7,
+  "actionName": "SPICE PICKUP ",
+  "isRackDependent": true,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": true,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": true,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": true,
+  "isTossDependent": true,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6eac"
+  },
+  "actionId": 8,
+  "actionName": "MEAT PICKUP",
+  "isRackDependent": true,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": true,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": true,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": true,
+  "isTossDependent": true,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6eaf"
+  },
+  "actionId": 9,
+  "actionName": "IGNITION ACTION",
+  "isRackDependent": false,
+  "isRoboDependent": false,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": true,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6eb2"
+  },
+  "actionId": 10,
+  "actionName": "STIRR ACTION",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": true,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": true,
+  "isTossDependent": false,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6eb5"
+  },
+  "actionId": 11,
+  "actionName": "TOSS ACTION",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": true,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": true,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6eb8"
+  },
+  "actionId": 12,
+  "actionName": "LIQUID DISPENCING",
+  "isRackDependent": false,
+  "isRoboDependent": false,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": false,
+  "isLiquidDependent": true,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": true,
+  "isTossDependent": true,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ebb"
+  },
+  "actionId": 13,
+  "actionName": "DELAY ACTION",
+  "isRackDependent": false,
+  "isRoboDependent": false,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ebe"
+  },
+  "actionId": 14,
+  "actionName": "FRYER PICKUP",
+  "isRackDependent": true,
+  "isRoboDependent": true,
+  "isBurnerDependent": false,
+  "isStationDependent": true,
+  "isHoldingStationDependent": true,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": false,
+  "isSectionDependent": true,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": true
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ec1"
+  },
+  "actionId": 15,
+  "actionName": "FRYER ACTION",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": false,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": true,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ec4"
+  },
+  "actionId": 16,
+  "actionName": "FRYER SERVE",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": false,
+  "isFryerDependent": true,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": false
+},{
+  "_id": {
+    "$oid": "5fd3645940db98fa685f6ec7"
+  },
+  "actionId": 17,
+  "actionName": "SERVE ACTION",
+  "isRackDependent": false,
+  "isRoboDependent": true,
+  "isBurnerDependent": true,
+  "isStationDependent": true,
+  "isHoldingStationDependent": false,
+  "isServingStationDependent": true,
+  "isFryerDependent": false,
+  "isLiquidDependent": false,
+  "isSectionDependent": false,
+  "isUtensilDependent": false,
+  "isSpatulaDependent": false,
+  "isStirDependent": false,
+  "isTossDependent": false,
+  "isBowlDependent": false
+}]

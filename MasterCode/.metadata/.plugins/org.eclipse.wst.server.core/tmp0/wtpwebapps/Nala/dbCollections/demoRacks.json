@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "5fdcb6d717a1c99016570e7f"
+  },
+  "rackId": 1,
+  "rackName": "RACK1",
+  "description": "RACK1",
+  "type": "SOLID",
+  "section": [
+    "VEG",
+    "MEAT",
+    "SPICE"
+  ],
+  "vegBins": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "meatBins": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "spiceBins": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ]
+},{
+  "_id": {
+    "$oid": "5fdcb6d717a1c99016570e82"
+  },
+  "rackId": 2,
+  "rackName": "RACK2",
+  "description": "RACK2",
+  "type": "SOLID",
+  "section": [
+    "VEG",
+    "MEAT",
+    "SPICE"
+  ],
+  "vegBins": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "meatBins": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "spiceBins": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ]
+},{
+  "_id": {
+    "$oid": "5fdcb6d717a1c99016570e85"
+  },
+  "rackId": 3,
+  "rackName": "RACK3",
+  "description": "RACK3",
+  "type": "LIQUID"
+}]

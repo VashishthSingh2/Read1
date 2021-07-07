@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edb9"
+  },
+  "binUniqueId": 1,
+  "binNo": 1,
+  "ingredientName": "Onions + Chilli",
+  "section": "VEG",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edbc"
+  },
+  "binUniqueId": 2,
+  "binNo": 2,
+  "ingredientName": "Carrots + Beans",
+  "section": "VEG",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edbf"
+  },
+  "binUniqueId": 3,
+  "binNo": 3,
+  "ingredientName": "Cooked Rice",
+  "section": "VEG",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edc2"
+  },
+  "binUniqueId": 4,
+  "binNo": 4,
+  "ingredientName": "Green Onions",
+  "section": "VEG",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edc5"
+  },
+  "binUniqueId": 5,
+  "binNo": 1,
+  "ingredientName": "Oil",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edc8"
+  },
+  "binUniqueId": 6,
+  "binNo": 2,
+  "ingredientName": "Soya Sauce",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edcb"
+  },
+  "binUniqueId": 7,
+  "binNo": 3,
+  "ingredientName": "Venigar",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edce"
+  },
+  "binUniqueId": 8,
+  "binNo": 4,
+  "ingredientName": "Water",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edd1"
+  },
+  "binUniqueId": 9,
+  "binNo": 5,
+  "ingredientName": "Tomato Sauce",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edd4"
+  },
+  "binUniqueId": 10,
+  "binNo": 6,
+  "ingredientName": "Chille Sauce",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edd7"
+  },
+  "binUniqueId": 11,
+  "binNo": 7,
+  "ingredientName": "Red Chilli Sauce",
+  "section": "LIQUID",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edda"
+  },
+  "binUniqueId": 12,
+  "binNo": 1,
+  "ingredientName": "French Fries",
+  "section": "MEAT",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656eddd"
+  },
+  "binUniqueId": 13,
+  "binNo": 2,
+  "ingredientName": "Chicken Pieces",
+  "section": "MEAT",
+  "rack": 1,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ede0"
+  },
+  "binUniqueId": 14,
+  "binNo": 3,
+  "ingredientName": "Manchuria Balls",
+  "section": "MEAT",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ede3"
+  },
+  "binUniqueId": 15,
+  "binNo": 4,
+  "ingredientName": "Chicken Wings",
+  "section": "MEAT",
+  "rack": 1,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ede6"
+  },
+  "binUniqueId": 16,
+  "binNo": 14,
+  "ingredientName": "Ginger Garlic",
+  "section": "SPICE",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ede9"
+  },
+  "binUniqueId": 17,
+  "binNo": 1,
+  "ingredientName": "French Fries Masala",
+  "section": "SPICE",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edec"
+  },
+  "binUniqueId": 18,
+  "binNo": 2,
+  "ingredientName": "Fried Rice Mix",
+  "section": "SPICE",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edef"
+  },
+  "binUniqueId": 19,
+  "binNo": 3,
+  "ingredientName": "Manchurian Spice Mix",
+  "section": "SPICE",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edf2"
+  },
+  "binUniqueId": 20,
+  "binNo": 4,
+  "ingredientName": "Sugar",
+  "section": "SPICE",
+  "rack": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edf5"
+  },
+  "binUniqueId": 21,
+  "binNo": 5,
+  "ingredientName": "Chilli Chicken Mix",
+  "section": "SPICE",
+  "rack": 1,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edf8"
+  },
+  "binUniqueId": 22,
+  "binNo": 19,
+  "ingredientName": "Onions + Chilli",
+  "section": "VEG",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edfb"
+  },
+  "binUniqueId": 23,
+  "binNo": 20,
+  "ingredientName": "Carrots + Beans",
+  "section": "VEG",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656edfe"
+  },
+  "binUniqueId": 24,
+  "binNo": 21,
+  "ingredientName": "Cooked Rice",
+  "section": "VEG",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee01"
+  },
+  "binUniqueId": 25,
+  "binNo": 22,
+  "ingredientName": "Green Onions",
+  "section": "VEG",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee04"
+  },
+  "binUniqueId": 26,
+  "binNo": 11,
+  "ingredientName": "Oil",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee07"
+  },
+  "binUniqueId": 27,
+  "binNo": 12,
+  "ingredientName": "Soya Sauce",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee0a"
+  },
+  "binUniqueId": 28,
+  "binNo": 13,
+  "ingredientName": "Venigar",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee0d"
+  },
+  "binUniqueId": 29,
+  "binNo": 14,
+  "ingredientName": "Water",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee10"
+  },
+  "binUniqueId": 30,
+  "binNo": 15,
+  "ingredientName": "Tomato Sauce",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee13"
+  },
+  "binUniqueId": 31,
+  "binNo": 16,
+  "ingredientName": "Chille Sauce",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee16"
+  },
+  "binUniqueId": 32,
+  "binNo": 17,
+  "ingredientName": "Red Chilli Sauce",
+  "section": "LIQUID",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee19"
+  },
+  "binUniqueId": 33,
+  "binNo": 7,
+  "ingredientName": "French Fries",
+  "section": "MEAT",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee1c"
+  },
+  "binUniqueId": 34,
+  "binNo": 8,
+  "ingredientName": "Chicken Pieces",
+  "section": "MEAT",
+  "rack": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee1f"
+  },
+  "binUniqueId": 35,
+  "binNo": 9,
+  "ingredientName": "Manchuria Balls",
+  "section": "MEAT",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee22"
+  },
+  "binUniqueId": 36,
+  "binNo": 10,
+  "ingredientName": "Chicken Wings",
+  "section": "MEAT",
+  "rack": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee25"
+  },
+  "binUniqueId": 37,
+  "binNo": 19,
+  "ingredientName": "Ginger Garlic",
+  "section": "SPICE",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee28"
+  },
+  "binUniqueId": 38,
+  "binNo": 20,
+  "ingredientName": "French Fries Masala",
+  "section": "SPICE",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee2b"
+  },
+  "binUniqueId": 39,
+  "binNo": 21,
+  "ingredientName": "Fried Rice Mix",
+  "section": "SPICE",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee2e"
+  },
+  "binUniqueId": 40,
+  "binNo": 22,
+  "ingredientName": "Manchurian Spice Mix",
+  "section": "SPICE",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee31"
+  },
+  "binUniqueId": 41,
+  "binNo": 23,
+  "ingredientName": "Sugar",
+  "section": "SPICE",
+  "rack": 2,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5fdc72ac17a1c9901656ee34"
+  },
+  "binUniqueId": 42,
+  "binNo": 24,
+  "ingredientName": "Chilli Chicken Mix",
+  "section": "SPICE",
+  "rack": 2,
+  "classificationType": "MEAT"
+}]

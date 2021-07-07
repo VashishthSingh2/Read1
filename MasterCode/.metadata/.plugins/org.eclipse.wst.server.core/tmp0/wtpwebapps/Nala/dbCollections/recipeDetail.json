@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a0c"
+  },
+  "recipeDetailsId": 1,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 1,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 15,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a0f"
+  },
+  "recipeDetailsId": 3,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 3,
+  "burner1And2bin": 1,
+  "burner3And4bin": 19,
+  "qty": 30,
+  "noOfMilliSec": 0,
+  "flame": 30,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a12"
+  },
+  "recipeDetailsId": 4,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 4,
+  "burner1And2bin": 2,
+  "burner3And4bin": 21,
+  "qty": 60,
+  "noOfMilliSec": 0,
+  "flame": 50,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a15"
+  },
+  "recipeDetailsId": 5,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 2,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a18"
+  },
+  "recipeDetailsId": 2,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 9,
+  "burner1And2bin": 0,
+  "burner3And4bin": 0,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a1b"
+  },
+  "recipeDetailsId": 6,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 12,
+  "burner1And2bin": 1,
+  "burner3And4bin": 11,
+  "qty": 0,
+  "noOfMilliSec": 3000,
+  "flame": 30,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a1e"
+  },
+  "recipeDetailsId": 7,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 13,
+  "burner1And2bin": 0,
+  "burner3And4bin": 0,
+  "qty": 0,
+  "noOfMilliSec": 60,
+  "flame": 30,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a21"
+  },
+  "recipeDetailsId": 8,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 3,
+  "burner1And2bin": 2,
+  "burner3And4bin": 20,
+  "qty": 150,
+  "noOfMilliSec": 0,
+  "flame": 30,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a24"
+  },
+  "recipeDetailsId": 9,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 6,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 30,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a27"
+  },
+  "recipeDetailsId": 10,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 3,
+  "flame": 30,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a2a"
+  },
+  "recipeDetailsId": 11,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 3,
+  "burner1And2bin": 3,
+  "burner3And4bin": 21,
+  "qty": 250,
+  "noOfMilliSec": 0,
+  "flame": 30,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a2d"
+  },
+  "recipeDetailsId": 12,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 6,
+  "burner1And2bin": 2,
+  "burner3And4bin": 2,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 50,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a30"
+  },
+  "recipeDetailsId": 13,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 7,
+  "burner1And2bin": 2,
+  "burner3And4bin": 2,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 50,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a33"
+  },
+  "recipeDetailsId": 14,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "burner1And2bin": 2,
+  "burner3And4bin": 2,
+  "qty": 0,
+  "noOfMilliSec": 120,
+  "flame": 50,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a36"
+  },
+  "recipeDetailsId": 15,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 12,
+  "burner1And2bin": 2,
+  "burner3And4bin": 12,
+  "qty": 0,
+  "noOfMilliSec": 1500,
+  "flame": 30,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a39"
+  },
+  "recipeDetailsId": 16,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "burner1And2bin": 2,
+  "burner3And4bin": 2,
+  "qty": 0,
+  "noOfMilliSec": 30,
+  "flame": 30,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a3c"
+  },
+  "recipeDetailsId": 17,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 11,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 30,
+  "flame": 30,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a3f"
+  },
+  "recipeDetailsId": 18,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "burner1And2bin": 2,
+  "burner3And4bin": 2,
+  "qty": 0,
+  "noOfMilliSec": 30,
+  "flame": 30,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a42"
+  },
+  "recipeDetailsId": 19,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 11,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 30,
+  "flame": 30,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a45"
+  },
+  "recipeDetailsId": 20,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "burner1And2bin": 2,
+  "burner3And4bin": 2,
+  "qty": 0,
+  "noOfMilliSec": 30,
+  "flame": 30,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a48"
+  },
+  "recipeDetailsId": 21,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 11,
+  "burner1And2bin": 1,
+  "burner3And4bin": 1,
+  "qty": 0,
+  "noOfMilliSec": 30,
+  "flame": 30,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "5fdcdefd17a1c99016571a4b"
+  },
+  "recipeDetailsId": 22,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 17,
+  "burner1And2bin": 0,
+  "burner3And4bin": 0,
+  "qty": 0,
+  "noOfMilliSec": 0,
+  "flame": 0,
+  "groupId": 16
+}]

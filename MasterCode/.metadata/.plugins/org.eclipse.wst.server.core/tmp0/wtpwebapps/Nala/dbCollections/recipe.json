@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "5f64618de4b0f4932295d81f"
+  },
+  "_class": "com.nala.model.Recipe",
+  "name": "Fried Rice",
+  "shortDescription": "Fried Rice",
+  "description": "Fried Rice",
+  "recipeType": {
+    "_id": {
+      "$oid": "5f6379777c5eeb44a2187203"
+    },
+    "name": "Veg starters",
+    "shortDescription": "Veg starters",
+    "description": "Veg starters",
+    "sequence": 1,
+    "createdBy": "Satish",
+    "lastUpdatedBy": "Satish",
+    "createdDateTime": {
+      "$date": "2020-09-17T14:57:59.331Z"
+    },
+    "lastUpdatedDateTime": {
+      "$date": "2020-09-17T14:57:59.331Z"
+    }
+  },
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-18T07:28:13.694Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-18T07:28:13.694Z"
+  }
+}]

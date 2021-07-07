@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.data.mongodb.repository.MongoRepository"/>
+    <fullyQualifiedTypeName name="com.nala.repository.RegisterRepository"/>
+    <fullyQualifiedTypeName name="com.nala.repository.BurnerRepository"/>
+    <fullyQualifiedTypeName name="com.nala.model.Register"/>
+    <fullyQualifiedTypeName name="com.nala.model.Burner"/>
+    <fullyQualifiedTypeName name="example.Comment"/>
+    <fullyQualifiedTypeName name="example.Commentary"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

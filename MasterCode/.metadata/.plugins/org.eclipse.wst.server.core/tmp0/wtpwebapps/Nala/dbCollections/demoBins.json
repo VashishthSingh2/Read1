@@ -1,0 +1,1249 @@
+[{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165818fb"
+  },
+  "binId": 1,
+  "binNo": 1,
+  "ingredientId": 1,
+  "ingredientName": "Onions(Finely Chopped)",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165818fe"
+  },
+  "binId": 2,
+  "binNo": 2,
+  "ingredientId": 2,
+  "ingredientName": "Green Chilli",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581901"
+  },
+  "binId": 3,
+  "binNo": 3,
+  "ingredientId": 3,
+  "ingredientName": "Carrot",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581904"
+  },
+  "binId": 4,
+  "binNo": 4,
+  "ingredientId": 4,
+  "ingredientName": "Beans",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581907"
+  },
+  "binId": 5,
+  "binNo": 5,
+  "ingredientId": 5,
+  "ingredientName": "Capsicum",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658190a"
+  },
+  "binId": 6,
+  "binNo": 6,
+  "ingredientId": 6,
+  "ingredientName": "Onions(Cubes)",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658190d"
+  },
+  "binId": 7,
+  "binNo": 7,
+  "ingredientId": 7,
+  "ingredientName": "Rice",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581910"
+  },
+  "binId": 8,
+  "binNo": 8,
+  "ingredientId": 8,
+  "ingredientName": "Noodles",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581913"
+  },
+  "binId": 9,
+  "binNo": 9,
+  "ingredientId": 9,
+  "ingredientName": "Chicken(Fried rice pieces)",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581916"
+  },
+  "binId": 10,
+  "binNo": 10,
+  "ingredientId": 10,
+  "ingredientName": "Spare-1",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581919"
+  },
+  "binId": 11,
+  "binNo": 11,
+  "ingredientId": 11,
+  "ingredientName": "Spare-2",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658191c"
+  },
+  "binId": 12,
+  "binNo": 12,
+  "ingredientId": 12,
+  "ingredientName": "Spare-3",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658191f"
+  },
+  "binId": 13,
+  "binNo": 13,
+  "ingredientId": 13,
+  "ingredientName": "Coriander leaf's",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581922"
+  },
+  "binId": 14,
+  "binNo": 14,
+  "ingredientId": 14,
+  "ingredientName": "Spring Onions",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581925"
+  },
+  "binId": 15,
+  "binNo": 15,
+  "ingredientId": 15,
+  "ingredientName": "Spare-4",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581928"
+  },
+  "binId": 16,
+  "binNo": 16,
+  "ingredientId": 16,
+  "ingredientName": "Spare-5",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658192b"
+  },
+  "binId": 17,
+  "binNo": 1,
+  "ingredientId": 17,
+  "ingredientName": "Chicken cubes",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658192e"
+  },
+  "binId": 18,
+  "binNo": 2,
+  "ingredientId": 18,
+  "ingredientName": "Chicken Wings",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581931"
+  },
+  "binId": 19,
+  "binNo": 3,
+  "ingredientId": 19,
+  "ingredientName": "Shrimps",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581934"
+  },
+  "binId": 20,
+  "binNo": 4,
+  "ingredientId": 20,
+  "ingredientName": "Chicken Pieces",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581937"
+  },
+  "binId": 21,
+  "binNo": 5,
+  "ingredientId": 21,
+  "ingredientName": "Manchurian balls",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658193a"
+  },
+  "binId": 22,
+  "binNo": 6,
+  "ingredientId": 22,
+  "ingredientName": "Spare",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 1,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658193d"
+  },
+  "binId": 23,
+  "binNo": 1,
+  "ingredientId": 23,
+  "ingredientName": "Salt",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581940"
+  },
+  "binId": 24,
+  "binNo": 2,
+  "ingredientId": 24,
+  "ingredientName": "Chilli powder",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581943"
+  },
+  "binId": 25,
+  "binNo": 3,
+  "ingredientId": 25,
+  "ingredientName": "Black pepper",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581946"
+  },
+  "binId": 26,
+  "binNo": 4,
+  "ingredientId": 26,
+  "ingredientName": "White Pepper",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581949"
+  },
+  "binId": 27,
+  "binNo": 5,
+  "ingredientId": 27,
+  "ingredientName": "Turmeric",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658194c"
+  },
+  "binId": 28,
+  "binNo": 6,
+  "ingredientId": 28,
+  "ingredientName": "Chicken masala",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658194f"
+  },
+  "binId": 29,
+  "binNo": 7,
+  "ingredientId": 29,
+  "ingredientName": "Garam masala",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581952"
+  },
+  "binId": 30,
+  "binNo": 8,
+  "ingredientId": 30,
+  "ingredientName": "Mixed masala",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581955"
+  },
+  "binId": 31,
+  "binNo": 9,
+  "ingredientId": 31,
+  "ingredientName": "Spare-1",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581958"
+  },
+  "binId": 32,
+  "binNo": 10,
+  "ingredientId": 32,
+  "ingredientName": "Spare-2",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658195b"
+  },
+  "binId": 33,
+  "binNo": 11,
+  "ingredientId": 33,
+  "ingredientName": "Spare-3",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658195e"
+  },
+  "binId": 34,
+  "binNo": 12,
+  "ingredientId": 34,
+  "ingredientName": "Spare-4",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581961"
+  },
+  "binId": 35,
+  "binNo": 13,
+  "ingredientId": 35,
+  "ingredientName": "Ginger mince",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581964"
+  },
+  "binId": 36,
+  "binNo": 14,
+  "ingredientId": 36,
+  "ingredientName": "Ginger and Garlic mince",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581967"
+  },
+  "binId": 37,
+  "binNo": 15,
+  "ingredientId": 37,
+  "ingredientName": "Spare-5",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658196a"
+  },
+  "binId": 38,
+  "binNo": 16,
+  "ingredientId": 38,
+  "ingredientName": "Spare-6",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658196d"
+  },
+  "binId": 39,
+  "binNo": 1,
+  "ingredientId": 39,
+  "ingredientName": "Oil",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581970"
+  },
+  "binId": 40,
+  "binNo": 2,
+  "ingredientId": 40,
+  "ingredientName": "Soya sauce",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581973"
+  },
+  "binId": 41,
+  "binNo": 3,
+  "ingredientId": 41,
+  "ingredientName": "Venigar",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581976"
+  },
+  "binId": 42,
+  "binNo": 4,
+  "ingredientId": 42,
+  "ingredientName": "Water",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581979"
+  },
+  "binId": 43,
+  "binNo": 5,
+  "ingredientId": 43,
+  "ingredientName": "Tomato sauce",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658197c"
+  },
+  "binId": 44,
+  "binNo": 6,
+  "ingredientId": 44,
+  "ingredientName": "Chilli sauce(Green)",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658197f"
+  },
+  "binId": 45,
+  "binNo": 7,
+  "ingredientId": 45,
+  "ingredientName": "Chilli sauce(Red)",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581982"
+  },
+  "binId": 46,
+  "binNo": 8,
+  "ingredientId": 46,
+  "ingredientName": "Rum/Wine",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581985"
+  },
+  "binId": 47,
+  "binNo": 9,
+  "ingredientId": 47,
+  "ingredientName": "Spare-1",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581988"
+  },
+  "binId": 48,
+  "binNo": 10,
+  "ingredientId": 48,
+  "ingredientName": "Spare-2",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 1,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658198b"
+  },
+  "binId": 49,
+  "binNo": 19,
+  "ingredientId": 1,
+  "ingredientName": "Onions(Finely Chopped)",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658198e"
+  },
+  "binId": 50,
+  "binNo": 20,
+  "ingredientId": 2,
+  "ingredientName": "Green Chilli",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581991"
+  },
+  "binId": 51,
+  "binNo": 21,
+  "ingredientId": 3,
+  "ingredientName": "Carrot",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581994"
+  },
+  "binId": 52,
+  "binNo": 22,
+  "ingredientId": 4,
+  "ingredientName": "Beans",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581997"
+  },
+  "binId": 53,
+  "binNo": 23,
+  "ingredientId": 5,
+  "ingredientName": "Capsicum",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658199a"
+  },
+  "binId": 54,
+  "binNo": 24,
+  "ingredientId": 6,
+  "ingredientName": "Onions(Cubes)",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c9901658199d"
+  },
+  "binId": 55,
+  "binNo": 25,
+  "ingredientId": 7,
+  "ingredientName": "Rice",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819a0"
+  },
+  "binId": 56,
+  "binNo": 26,
+  "ingredientId": 8,
+  "ingredientName": "Noodles",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819a3"
+  },
+  "binId": 57,
+  "binNo": 27,
+  "ingredientId": 9,
+  "ingredientName": "Chicken(Fried rice pieces)",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819a6"
+  },
+  "binId": 58,
+  "binNo": 28,
+  "ingredientId": 10,
+  "ingredientName": "Spare-1",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819a9"
+  },
+  "binId": 59,
+  "binNo": 29,
+  "ingredientId": 11,
+  "ingredientName": "Spare-2",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819ac"
+  },
+  "binId": 60,
+  "binNo": 30,
+  "ingredientId": 12,
+  "ingredientName": "Spare-3",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819af"
+  },
+  "binId": 61,
+  "binNo": 17,
+  "ingredientId": 13,
+  "ingredientName": "Coriander leaf's",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819b2"
+  },
+  "binId": 62,
+  "binNo": 18,
+  "ingredientId": 14,
+  "ingredientName": "Spring Onions",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819b5"
+  },
+  "binId": 63,
+  "binNo": 31,
+  "ingredientId": 15,
+  "ingredientName": "Spare-4",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819b8"
+  },
+  "binId": 64,
+  "binNo": 32,
+  "ingredientId": 16,
+  "ingredientName": "Spare-5",
+  "sectionId": 1,
+  "sectionName": "VEG",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819bb"
+  },
+  "binId": 65,
+  "binNo": 7,
+  "ingredientId": 17,
+  "ingredientName": "Chicken cubes",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819be"
+  },
+  "binId": 66,
+  "binNo": 8,
+  "ingredientId": 18,
+  "ingredientName": "Chicken Wings",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819c1"
+  },
+  "binId": 67,
+  "binNo": 9,
+  "ingredientId": 19,
+  "ingredientName": "Shrimps",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819c4"
+  },
+  "binId": 68,
+  "binNo": 10,
+  "ingredientId": 20,
+  "ingredientName": "Chicken Pieces",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819c7"
+  },
+  "binId": 69,
+  "binNo": 11,
+  "ingredientId": 21,
+  "ingredientName": "Manchurian balls",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819ca"
+  },
+  "binId": 70,
+  "binNo": 12,
+  "ingredientId": 22,
+  "ingredientName": "Spare",
+  "sectionId": 2,
+  "sectionName": "MEAT",
+  "rackId": 2,
+  "classificationTypeId": 2,
+  "classificationType": "MEAT"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819cd"
+  },
+  "binId": 71,
+  "binNo": 20,
+  "ingredientId": 23,
+  "ingredientName": "Salt",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819d0"
+  },
+  "binId": 72,
+  "binNo": 21,
+  "ingredientId": 24,
+  "ingredientName": "Chilli powder",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819d3"
+  },
+  "binId": 73,
+  "binNo": 22,
+  "ingredientId": 25,
+  "ingredientName": "Black pepper",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819d6"
+  },
+  "binId": 74,
+  "binNo": 23,
+  "ingredientId": 26,
+  "ingredientName": "White Pepper",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819d9"
+  },
+  "binId": 75,
+  "binNo": 24,
+  "ingredientId": 27,
+  "ingredientName": "Turmeric",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819dc"
+  },
+  "binId": 76,
+  "binNo": 25,
+  "ingredientId": 28,
+  "ingredientName": "Chicken masala",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819df"
+  },
+  "binId": 77,
+  "binNo": 26,
+  "ingredientId": 29,
+  "ingredientName": "Garam masala",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819e2"
+  },
+  "binId": 78,
+  "binNo": 27,
+  "ingredientId": 30,
+  "ingredientName": "Mixed masala",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819e5"
+  },
+  "binId": 79,
+  "binNo": 28,
+  "ingredientId": 31,
+  "ingredientName": "Spare-1",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819e8"
+  },
+  "binId": 80,
+  "binNo": 29,
+  "ingredientId": 32,
+  "ingredientName": "Spare-2",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819eb"
+  },
+  "binId": 81,
+  "binNo": 30,
+  "ingredientId": 33,
+  "ingredientName": "Spare-3",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819ee"
+  },
+  "binId": 82,
+  "binNo": 31,
+  "ingredientId": 34,
+  "ingredientName": "Spare-4",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819f1"
+  },
+  "binId": 83,
+  "binNo": 18,
+  "ingredientId": 35,
+  "ingredientName": "Ginger mince",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819f4"
+  },
+  "binId": 84,
+  "binNo": 19,
+  "ingredientId": 36,
+  "ingredientName": "Ginger and Garlic mince",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819f7"
+  },
+  "binId": 85,
+  "binNo": 17,
+  "ingredientId": 37,
+  "ingredientName": "Spare-5",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819fa"
+  },
+  "binId": 86,
+  "binNo": 32,
+  "ingredientId": 38,
+  "ingredientName": "Spare-6",
+  "sectionId": 3,
+  "sectionName": "SPICE",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c990165819fd"
+  },
+  "binId": 87,
+  "binNo": 11,
+  "ingredientId": 39,
+  "ingredientName": "Oil",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a00"
+  },
+  "binId": 88,
+  "binNo": 12,
+  "ingredientId": 40,
+  "ingredientName": "Soya sauce",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a03"
+  },
+  "binId": 89,
+  "binNo": 13,
+  "ingredientId": 41,
+  "ingredientName": "Venigar",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a06"
+  },
+  "binId": 90,
+  "binNo": 14,
+  "ingredientId": 42,
+  "ingredientName": "Water",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a09"
+  },
+  "binId": 91,
+  "binNo": 15,
+  "ingredientId": 43,
+  "ingredientName": "Tomato sauce",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a0c"
+  },
+  "binId": 92,
+  "binNo": 16,
+  "ingredientId": 44,
+  "ingredientName": "Chilli sauce(Green)",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a0f"
+  },
+  "binId": 93,
+  "binNo": 17,
+  "ingredientId": 45,
+  "ingredientName": "Chilli sauce(Red)",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a12"
+  },
+  "binId": 94,
+  "binNo": 18,
+  "ingredientId": 46,
+  "ingredientName": "Rum/Wine",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a15"
+  },
+  "binId": 95,
+  "binNo": 19,
+  "ingredientId": 47,
+  "ingredientName": "Spare-1",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+},{
+  "_id": {
+    "$oid": "5ff6adb317a1c99016581a18"
+  },
+  "binId": 96,
+  "binNo": 20,
+  "ingredientId": 48,
+  "ingredientName": "Spare-2",
+  "sectionId": 4,
+  "sectionName": "LIQUID",
+  "rackId": 2,
+  "classificationTypeId": 1,
+  "classificationType": "VEG"
+}]

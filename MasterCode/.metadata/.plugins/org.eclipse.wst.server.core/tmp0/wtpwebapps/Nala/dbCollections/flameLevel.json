@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "5f6358187c5e041918534184"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 0,
+  "description": "Ignition OFF",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:35:36.378Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:35:36.378Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63582d7c5e041918534185"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 2,
+  "description": "Ignition ON",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:35:57.875Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:35:57.875Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358487c5e041918534186"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 10,
+  "description": "10 Percetage",
+  "sequence": 10,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:36:24.244Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:36:24.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358557c5e041918534187"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 20,
+  "description": "20 Percetage",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:36:37.137Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:36:37.137Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63585e7c5e041918534188"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 30,
+  "description": "30 Percetage",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:36:46.639Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:36:46.639Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358697c5e041918534189"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 40,
+  "description": "40 Percetage",
+  "sequence": 5,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:36:57.806Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:36:57.806Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358797c5e04191853418a"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 50,
+  "description": "50 Percetage",
+  "sequence": 6,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:37:13.669Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:37:13.669Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63588f7c5e04191853418b"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 60,
+  "description": "60 Percetage",
+  "sequence": 7,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:37:35.350Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:37:35.350Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63589e7c5e04191853418c"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 70,
+  "description": "70 Percetage",
+  "sequence": 8,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:37:50.046Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:37:50.046Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358af7c5e04191853418d"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 80,
+  "description": "80 Percetage",
+  "sequence": 9,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:38:07.609Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:38:07.609Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358b97c5e04191853418e"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 90,
+  "description": "90 Percetage",
+  "sequence": 10,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:38:17.224Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:38:17.224Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6358c37c5e04191853418f"
+  },
+  "_class": "com.nala.model.FlameLevel",
+  "percentage": 100,
+  "description": "100 Percetage",
+  "sequence": 11,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T12:38:27.763Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T12:38:27.763Z"
+  }
+}]

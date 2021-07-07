@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "5fc0a100359a8f258d71df28"
+  },
+  "_class": "com.nala.model.UserProfile",
+  "type": "USER",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-11-27T06:47:28.216Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-11-27T06:47:28.216Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc0a119359a8f258d71df29"
+  },
+  "_class": "com.nala.model.UserProfile",
+  "type": "ADMIN",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-11-27T06:47:53.586Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-11-27T06:47:53.586Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc0a13f359a8f258d71df2a"
+  },
+  "_class": "com.nala.model.UserProfile",
+  "type": "SUPERADMIN",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-11-27T06:48:31.002Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-11-27T06:48:31.002Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc0a15f359a8f258d71df2b"
+  },
+  "_class": "com.nala.model.UserProfile",
+  "type": "ANONYMOUS",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-11-27T06:49:03.923Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-11-27T06:49:03.923Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fc0a176359a8f258d71df2c"
+  },
+  "_class": "com.nala.model.UserProfile",
+  "type": "TEACHER",
+  "sequence": 5,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-11-27T06:49:26.489Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-11-27T06:49:26.489Z"
+  }
+}]

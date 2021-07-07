@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "5f6379777c5eeb44a2187203"
+  },
+  "_class": "com.nala.model.RecipeType",
+  "name": "Veg starters",
+  "shortDescription": "Veg starters",
+  "description": "Veg starters",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:57:59.331Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:57:59.331Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6379997c5eeb44a2187204"
+  },
+  "_class": "com.nala.model.RecipeType",
+  "name": "Non Veg starters",
+  "shortDescription": "Non Veg starters",
+  "description": "Non Veg starters",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:58:33.388Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:58:33.388Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6379ad7c5eeb44a2187205"
+  },
+  "_class": "com.nala.model.RecipeType",
+  "name": "Veg Main Course",
+  "shortDescription": "Veg Main Course",
+  "description": "Veg Main Course",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:58:53.001Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:58:53.001Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6379c07c5eeb44a2187206"
+  },
+  "_class": "com.nala.model.RecipeType",
+  "name": "Non Veg Main Course",
+  "shortDescription": "Non Veg Main Course",
+  "description": "Non Veg Main Course",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:59:12.284Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:59:12.284Z"
+  }
+}]

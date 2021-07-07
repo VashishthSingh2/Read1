@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "5fd07f57bde8d00f04c0e3b1"
+  },
+  "name": "dsgsdfhf",
+  "description": "fdhfdsh",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:07.786Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:07.786Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f5dbde8d00f04c0e3b2"
+  },
+  "name": "dsfgfdsgdsf",
+  "description": "dfhsdfgd",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:13.041Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:13.041Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f64bde8d00f04c0e3b3"
+  },
+  "name": "hjlkj;j",
+  "description": "kjljklgjhl",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:20.265Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:20.265Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f69bde8d00f04c0e3b4"
+  },
+  "name": "hjkghkfg",
+  "description": "fhgijghk",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:25.153Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:25.153Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f6dbde8d00f04c0e3b5"
+  },
+  "name": "jhjkdhgkjd",
+  "description": "hgjfgj",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:29.605Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:29.605Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f73bde8d00f04c0e3b6"
+  },
+  "name": "khjkhjkdsada",
+  "description": "asdsaa",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:35.968Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:35.968Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f78bde8d00f04c0e3b7"
+  },
+  "name": "asdasda",
+  "description": "dsfsdf",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:40.756Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:40.756Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f7ebde8d00f04c0e3b8"
+  },
+  "name": "sdfdsfa",
+  "description": "sdghtrhs",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:46.945Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:46.945Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f84bde8d00f04c0e3b9"
+  },
+  "name": "sdffsdhdf",
+  "description": "nsfgjfghs",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:40:52.829Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:40:52.829Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f95bde8d00f04c0e3ba"
+  },
+  "name": "dsafgtwhrerds",
+  "description": "sfghjaadas",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:41:09.213Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:41:09.213Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd07f9abde8d00f04c0e3bb"
+  },
+  "name": "fdhdfgjghkfg",
+  "description": "dsfhdsxga",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T07:41:14.750Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T07:41:14.750Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd0a947480f3d181487b0e6"
+  },
+  "name": "ufiu",
+  "description": "oiuphn",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T10:39:03.145Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T10:39:03.145Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd0a952480f3d181487b0e7"
+  },
+  "name": "ztwry",
+  "description": "cuytfo",
+  "sequence": 0,
+  "spatulaType": "Spatula Type1",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T10:39:14.171Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T10:39:14.171Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd0a95f480f3d181487b0e8"
+  },
+  "name": "ydutdxu",
+  "description": "rwdfvpi",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T10:39:27.194Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T10:39:27.194Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd0c54329c41e29fc8a8f52"
+  },
+  "name": "dfgdfqretafdscwsadcsadccasd",
+  "description": "dfgdfqretafdscwsadcsadccasd",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-12-09T12:38:27.024Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-09T12:38:27.024Z"
+  },
+  "_class": "com.nala.model.Spatula"
+},{
+  "_id": {
+    "$oid": "5fd1e96b1fb030381409e17b"
+  },
+  "name": "trrhetgeqrd",
+  "description": "trrhetgeqrd",
+  "sequence": 0,
+  "spatulaType": "Spatula Type2",
+  "status": "Active",
+  "createdBy": "satish.v@adso.com",
+  "lastUpdatedBy": "satish.v@adso.com",
+  "createdDateTime": {
+    "$date": "2020-12-10T09:24:59.759Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-12-10T09:24:59.759Z"
+  },
+  "_class": "com.nala.model.Spatula"
+}]

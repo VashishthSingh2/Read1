@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5f730369a6360a36e049e374"
+  },
+  "_class": "com.nala.model.IngredientType",
+  "name": "Veg",
+  "description": "Veg",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-29T09:50:33.246Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-29T09:50:33.246Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f730398a6360a36e049e375"
+  },
+  "_class": "com.nala.model.IngredientType",
+  "name": "Meat",
+  "description": "Meat",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-29T09:51:20.813Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-29T09:51:20.813Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7303a2a6360a36e049e376"
+  },
+  "_class": "com.nala.model.IngredientType",
+  "name": "Spice",
+  "description": "Spice",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-29T09:51:30.792Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-29T09:51:30.792Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f7303afa6360a36e049e377"
+  },
+  "_class": "com.nala.model.IngredientType",
+  "name": "Liquid",
+  "description": "Liquid",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-29T09:51:43.053Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-29T09:51:43.053Z"
+  }
+}]

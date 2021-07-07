@@ -1,0 +1,1745 @@
+[{
+  "_id": {
+    "$oid": "60003c6417a1c990165877f1"
+  },
+  "coilId": 1,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_1_AUTO_OR_MANUAL",
+  "coilAddress": 5000,
+  "description": "BURNER-1 AUTO/MANUAL STATUS",
+  "burner": "burner1",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165877f4"
+  },
+  "coilId": 2,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_1_RECIPE_START",
+  "coilAddress": 5001,
+  "description": "BURNER-1RECIPE START CMD",
+  "burner": "burner1",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165877f7"
+  },
+  "coilId": 3,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_1_RECIPE_STOP",
+  "coilAddress": 5002,
+  "description": "BURNER-1 RECIPE STOP CMD",
+  "burner": "burner1",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165877fa"
+  },
+  "coilId": 4,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_2_AUTO_MANUAL",
+  "coilAddress": 5100,
+  "description": "BURNER-2 AUTO/MANUAL STATUS",
+  "burner": "burner2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165877fd"
+  },
+  "coilId": 5,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_2_RECIPE_START",
+  "coilAddress": 5101,
+  "description": "BURNER-2 RECIPE START CMD",
+  "burner": "burner2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587800"
+  },
+  "coilId": 6,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_2_RECIPE_STOP",
+  "coilAddress": 5102,
+  "description": "BURNER-2 RECIPE STOP CMD",
+  "burner": "burner2",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587803"
+  },
+  "coilId": 7,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_3_AUTO_MANUAL",
+  "coilAddress": 5200,
+  "description": "BURNER-3 AUTO/MANUAL STATUS",
+  "burner": "burner3",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587806"
+  },
+  "coilId": 8,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_3_RECIPE_START",
+  "coilAddress": 5201,
+  "description": "BURNER-3 RECIPE START CMD",
+  "burner": "burner3",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587809"
+  },
+  "coilId": 9,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_3_RECIPE_STOP",
+  "coilAddress": 5202,
+  "description": "BURNER-3 RECIPE STOP CMD",
+  "burner": "burner3",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658780c"
+  },
+  "coilId": 10,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_4_AUTO_MANUAL",
+  "coilAddress": 5300,
+  "description": "BURNER-4 AUTO/MANUAL STATUS",
+  "burner": "burner4",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658780f"
+  },
+  "coilId": 11,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_4_RECIPE_START",
+  "coilAddress": 5301,
+  "description": "BURNER-4 RECIPE START CMD",
+  "burner": "burner4",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587812"
+  },
+  "coilId": 12,
+  "coilTypeId": 1,
+  "coilType": "RECIPE_START_OR_STOP",
+  "coilName": "BURNER_4_RECIPE_STOP",
+  "coilAddress": 5302,
+  "description": "BURNER-4 RECIPE STOP CMD",
+  "burner": "burner4",
+  "javaPreOperations": "WRITE, READ",
+  "javaPostOperations": "WRITE, READ",
+  "plcOperations": "READ"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587815"
+  },
+  "coilId": 13,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_UTENSIL_PICK_DONE",
+  "coilAddress": 5051,
+  "description": "UTENSIL PICK ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587818"
+  },
+  "coilId": 14,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_SPATULA_PICK_DONE",
+  "coilAddress": 5052,
+  "description": "SPATULA PICK ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658781b"
+  },
+  "coilId": 15,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_VEG_COLLECTION_DONE",
+  "coilAddress": 5053,
+  "description": "VEG COLLECTION ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658781e"
+  },
+  "coilId": 16,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_SPICE_COLLECTION_DONE",
+  "coilAddress": 5054,
+  "description": "SPICE COLLECTION ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587821"
+  },
+  "coilId": 17,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_MEAT_COLLECTION_DONE",
+  "coilAddress": 5055,
+  "description": "MEAT COLLECTION ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587824"
+  },
+  "coilId": 18,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_VEG_PICKUP_DONE",
+  "coilAddress": 5056,
+  "description": "VEG PICKUP ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587827"
+  },
+  "coilId": 19,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_SPICE_PICKUP_DONE",
+  "coilAddress": 5057,
+  "description": "SPICE PICKUP ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658782a"
+  },
+  "coilId": 20,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_MEAT_PICKUP_DONE",
+  "coilAddress": 5058,
+  "description": "MEAT PICKUP ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658782d"
+  },
+  "coilId": 21,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_IGNITION_DONE",
+  "coilAddress": 5059,
+  "description": "IGNITION ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587830"
+  },
+  "coilId": 22,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_STIRR_DONE",
+  "coilAddress": 5060,
+  "description": "STIRR CTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587833"
+  },
+  "coilId": 23,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_TOSS_DONE",
+  "coilAddress": 5061,
+  "description": "TOSS ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587836"
+  },
+  "coilId": 24,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_LIQUID_DISPENSING_DONE",
+  "coilAddress": 5062,
+  "description": "LIQUID DISPENSING ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587839"
+  },
+  "coilId": 25,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_DELAY_DONE",
+  "coilAddress": 5063,
+  "description": "DELAY ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658783c"
+  },
+  "coilId": 26,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_FRYER_PICKUP_DONE",
+  "coilAddress": 5064,
+  "description": "FRYER PICKUP ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658783f"
+  },
+  "coilId": 27,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_FRYER_DONE",
+  "coilAddress": 5065,
+  "description": "FRYER ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587842"
+  },
+  "coilId": 28,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_FRYER_SERVE_DONE",
+  "coilAddress": 5066,
+  "description": "FRYER SERVE ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587845"
+  },
+  "coilId": 29,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_1_SERVE_DONE",
+  "coilAddress": 5067,
+  "description": "SERVE ACTION DONE",
+  "burner": "burner1",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587848"
+  },
+  "coilId": 13,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_UTENSIL_PICK_DONE",
+  "coilAddress": 5151,
+  "description": "UTENSIL PICK ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658784b"
+  },
+  "coilId": 14,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_SPATULA_PICK_DONE",
+  "coilAddress": 5152,
+  "description": "SPATULA PICK ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658784e"
+  },
+  "coilId": 15,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_VEG_COLLECTION_DONE",
+  "coilAddress": 5153,
+  "description": "VEG COLLECTION ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587851"
+  },
+  "coilId": 16,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_SPICE_COLLECTION_DONE",
+  "coilAddress": 5154,
+  "description": "SPICE COLLECTION ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587854"
+  },
+  "coilId": 17,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_MEAT_COLLECTION_DONE",
+  "coilAddress": 5155,
+  "description": "MEAT COLLECTION ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587857"
+  },
+  "coilId": 18,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_VEG_PICKUP_DONE",
+  "coilAddress": 5156,
+  "description": "VEG PICKUP ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658785a"
+  },
+  "coilId": 19,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_SPICE_PICKUP_DONE",
+  "coilAddress": 5157,
+  "description": "SPICE PICKUP ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658785d"
+  },
+  "coilId": 20,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_MEAT_PICKUP_DONE",
+  "coilAddress": 5158,
+  "description": "MEAT PICKUP ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587860"
+  },
+  "coilId": 21,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_IGNITION_DONE",
+  "coilAddress": 5159,
+  "description": "IGNITION ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587863"
+  },
+  "coilId": 22,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_STIRR_DONE",
+  "coilAddress": 5160,
+  "description": "STIRR CTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587866"
+  },
+  "coilId": 23,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_TOSS_DONE",
+  "coilAddress": 5161,
+  "description": "TOSS ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587869"
+  },
+  "coilId": 24,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_LIQUID_DISPENSING_DONE",
+  "coilAddress": 5162,
+  "description": "LIQUID DISPENSING ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658786c"
+  },
+  "coilId": 25,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_DELAY_DONE",
+  "coilAddress": 5163,
+  "description": "DELAY ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658786f"
+  },
+  "coilId": 26,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_FRYER_PICKUP_DONE",
+  "coilAddress": 5164,
+  "description": "FRYER PICKUP ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587872"
+  },
+  "coilId": 27,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_FRYER_DONE",
+  "coilAddress": 5165,
+  "description": "FRYER ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587875"
+  },
+  "coilId": 28,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_FRYER_SERVE_DONE",
+  "coilAddress": 5166,
+  "description": "FRYER SERVE ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587878"
+  },
+  "coilId": 29,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_2_SERVE_DONE",
+  "coilAddress": 5167,
+  "description": "SERVE ACTION DONE",
+  "burner": "burner2",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658787b"
+  },
+  "coilId": 13,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_UTENSIL_PICK_DONE",
+  "coilAddress": 5251,
+  "description": "UTENSIL PICK ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658787e"
+  },
+  "coilId": 14,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_SPATULA_PICK_DONE",
+  "coilAddress": 5252,
+  "description": "SPATULA PICK ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587881"
+  },
+  "coilId": 15,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_VEG_COLLECTION_DONE",
+  "coilAddress": 5253,
+  "description": "VEG COLLECTION ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587884"
+  },
+  "coilId": 16,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_SPICE_COLLECTION_DONE",
+  "coilAddress": 5254,
+  "description": "SPICE COLLECTION ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587887"
+  },
+  "coilId": 17,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_MEAT_COLLECTION_DONE",
+  "coilAddress": 5255,
+  "description": "MEAT COLLECTION ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658788a"
+  },
+  "coilId": 18,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_VEG_PICKUP_DONE",
+  "coilAddress": 5256,
+  "description": "VEG PICKUP ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658788d"
+  },
+  "coilId": 19,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_SPICE_PICKUP_DONE",
+  "coilAddress": 5257,
+  "description": "SPICE PICKUP ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587890"
+  },
+  "coilId": 20,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_MEAT_PICKUP_DONE",
+  "coilAddress": 5258,
+  "description": "MEAT PICKUP ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587893"
+  },
+  "coilId": 21,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_IGNITION_DONE",
+  "coilAddress": 5259,
+  "description": "IGNITION ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587896"
+  },
+  "coilId": 22,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_STIRR_DONE",
+  "coilAddress": 5260,
+  "description": "STIRR CTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587899"
+  },
+  "coilId": 23,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_TOSS_DONE",
+  "coilAddress": 5261,
+  "description": "TOSS ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658789c"
+  },
+  "coilId": 24,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_LIQUID_DISPENSING_DONE",
+  "coilAddress": 5262,
+  "description": "LIQUID DISPENSING ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658789f"
+  },
+  "coilId": 25,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_DELAY_DONE",
+  "coilAddress": 5263,
+  "description": "DELAY ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878a2"
+  },
+  "coilId": 26,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_FRYER_PICKUP_DONE",
+  "coilAddress": 5264,
+  "description": "FRYER PICKUP ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878a5"
+  },
+  "coilId": 27,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_FRYER_DONE",
+  "coilAddress": 5265,
+  "description": "FRYER ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878a8"
+  },
+  "coilId": 28,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_FRYER_SERVE_DONE",
+  "coilAddress": 5266,
+  "description": "FRYER SERVE ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878ab"
+  },
+  "coilId": 29,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_3_SERVE_DONE",
+  "coilAddress": 5267,
+  "description": "SERVE ACTION DONE",
+  "burner": "burner3",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878ae"
+  },
+  "coilId": 13,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_UTENSIL_PICK_DONE",
+  "coilAddress": 5351,
+  "description": "UTENSIL PICK ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878b1"
+  },
+  "coilId": 14,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_SPATULA_PICK_DONE",
+  "coilAddress": 5352,
+  "description": "SPATULA PICK ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878b4"
+  },
+  "coilId": 15,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_VEG_COLLECTION_DONE",
+  "coilAddress": 5353,
+  "description": "VEG COLLECTION ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878b7"
+  },
+  "coilId": 16,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_SPICE_COLLECTION_DONE",
+  "coilAddress": 5354,
+  "description": "SPICE COLLECTION ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878ba"
+  },
+  "coilId": 17,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_MEAT_COLLECTION_DONE",
+  "coilAddress": 5355,
+  "description": "MEAT COLLECTION ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878bd"
+  },
+  "coilId": 18,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_VEG_PICKUP_DONE",
+  "coilAddress": 5356,
+  "description": "VEG PICKUP ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878c0"
+  },
+  "coilId": 19,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_SPICE_PICKUP_DONE",
+  "coilAddress": 5357,
+  "description": "SPICE PICKUP ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878c3"
+  },
+  "coilId": 20,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_MEAT_PICKUP_DONE",
+  "coilAddress": 5358,
+  "description": "MEAT PICKUP ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878c6"
+  },
+  "coilId": 21,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_IGNITION_DONE",
+  "coilAddress": 5359,
+  "description": "IGNITION ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878c9"
+  },
+  "coilId": 22,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_STIRR_DONE",
+  "coilAddress": 5360,
+  "description": "STIRR CTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878cc"
+  },
+  "coilId": 23,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_TOSS_DONE",
+  "coilAddress": 5361,
+  "description": "TOSS ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878cf"
+  },
+  "coilId": 24,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_LIQUID_DISPENSING_DONE",
+  "coilAddress": 5362,
+  "description": "LIQUID DISPENSING ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878d2"
+  },
+  "coilId": 25,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_DELAY_DONE",
+  "coilAddress": 5363,
+  "description": "DELAY ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878d5"
+  },
+  "coilId": 26,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_FRYER_PICKUP_DONE",
+  "coilAddress": 5364,
+  "description": "FRYER PICKUP ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878d8"
+  },
+  "coilId": 27,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_FRYER_DONE",
+  "coilAddress": 5365,
+  "description": "FRYER ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878db"
+  },
+  "coilId": 28,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_FRYER_SERVE_DONE",
+  "coilAddress": 5366,
+  "description": "FRYER SERVE ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878de"
+  },
+  "coilId": 29,
+  "coilTypeId": 2,
+  "coilType": "ACTION_DONE",
+  "coilName": "BURNER_4_SERVE_DONE",
+  "coilAddress": 5367,
+  "description": "SERVE ACTION DONE",
+  "burner": "burner4",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878e1"
+  },
+  "coilId": 30,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "EMERGENCY_SWITCH_STATUS",
+  "coilAddress": 5501,
+  "description": "1-EMERGENCY HEALTHY and 0-EMEREGENCY ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878e4"
+  },
+  "coilId": 31,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "ROBOT_1_HEALTHY_STATUS",
+  "coilAddress": 5502,
+  "description": "1-ROBOT1 HEALTHY and 0-ROBOT1 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878e7"
+  },
+  "coilId": 32,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "ROBOT_2_HEALTHY_STATUS",
+  "coilAddress": 5503,
+  "description": "1-ROBOT2 HEALTHY and 0-ROBOT2 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878ea"
+  },
+  "coilId": 33,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "MFC_1_HEALTHY_STATUS_BURNER_1",
+  "coilAddress": 5504,
+  "description": "1-MFC1 HEALTHY and 0-MFC1 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878ed"
+  },
+  "coilId": 34,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "MFC_2_HEALTHY_STATUS_BURNER_2",
+  "coilAddress": 5505,
+  "description": "1-MFC2 HEALTHY and 0-MFC2 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878f0"
+  },
+  "coilId": 35,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "MFC_3_HEALTHY_STATUS_BURNER_3",
+  "coilAddress": 5506,
+  "description": "1-MFC3 HEALTHY and 0-MFC3 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878f3"
+  },
+  "coilId": 36,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "MFC_4_HEALTHY_STATUS_BURNER_4",
+  "coilAddress": 5507,
+  "description": "1-MFC4 HEALTHY and 0-MFC4 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878f6"
+  },
+  "coilId": 37,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "MFC_5_HEALTHY_STATUS_FRYER_1",
+  "coilAddress": 5508,
+  "description": "1-MFC5 HEALTHY and 0-MFC5 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878f9"
+  },
+  "coilId": 38,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "MFC_6_HEALTHY_STATUS_FRYER_2",
+  "coilAddress": 5509,
+  "description": "1-MFC6 HEALTHY and 0-MFC6 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878fc"
+  },
+  "coilId": 39,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SAFETY_PLC_HEALTHY_STATUS",
+  "coilAddress": 5510,
+  "description": "1-SAFETY PLC HEALTHY STATUS and 0-ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c990165878ff"
+  },
+  "coilId": 40,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SERVO_DRIVE_1_HEALTHY_STATUS",
+  "coilAddress": 5511,
+  "description": "1-SERVO1 HEALTHY and 0-SERVO1 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587902"
+  },
+  "coilId": 41,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SERVO_DRIVE_2_HEALTHY_STATUS",
+  "coilAddress": 5512,
+  "description": "1-SERVO2 HEALTHY and 0-SERVO2 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587905"
+  },
+  "coilId": 42,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SERVO_DRIVE_3_HEALTHY_STATUS",
+  "coilAddress": 5513,
+  "description": "1-SERVO3 HEALTHY and 0-SERVO3 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587908"
+  },
+  "coilId": 43,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SERVO_DRIVE_4_HEALTHY_STATUS",
+  "coilAddress": 5514,
+  "description": "1-SERVO4 HEALTHY and 0-SERVO4 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658790b"
+  },
+  "coilId": 44,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SERVO_DRIVE_5_HEALTHY_STATUS",
+  "coilAddress": 5515,
+  "description": "1-SERVO5 HEALTHY and 0-SERVO5 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658790e"
+  },
+  "coilId": 45,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "SERVO_DRIVE_6_HEALTHY_STATUS",
+  "coilAddress": 5516,
+  "description": "1-SERVO6 HEALTHY and 0-SERVO6 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587911"
+  },
+  "coilId": 46,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PMW_DRIVE_1_HEALTHY_STATUS",
+  "coilAddress": 5517,
+  "description": "1-PWM1 HEALTHY and 0-PMW1 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587914"
+  },
+  "coilId": 47,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PMW_DRIVE_2_HEALTHY_STATUS",
+  "coilAddress": 5518,
+  "description": "1-PWM2 HEALTHY and 0-PMW2 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587917"
+  },
+  "coilId": 48,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PMW_DRIVE_3_HEALTHY_STATUS",
+  "coilAddress": 5519,
+  "description": "1-PWM3 HEALTHY and 0-PMW3 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658791a"
+  },
+  "coilId": 49,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PMW_DRIVE_4_HEALTHY_STATUS",
+  "coilAddress": 5520,
+  "description": "1-PWM4 HEALTHY and 0-PMW4 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658791d"
+  },
+  "coilId": 50,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PMW_DRIVE_5_HEALTHY_STATUS",
+  "coilAddress": 5521,
+  "description": "1-PWM5 HEALTHY and 0-PMW5 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587920"
+  },
+  "coilId": 51,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PMW_DRIVE_6_HEALTHY_STATUS",
+  "coilAddress": 5522,
+  "description": "1-PWM6 HEALTHY and 0-PMW6 ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587923"
+  },
+  "coilId": 52,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PLC_HEALTHY_STATUS",
+  "coilAddress": 5523,
+  "description": "1-PLC HEALTHY and 0-PLC ALARM",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587926"
+  },
+  "coilId": 53,
+  "coilTypeId": 3,
+  "coilType": "HEALTHY_STATUS_CHECKS",
+  "coilName": "PLC_TO_JAVA_COMM__HEALTHY_STATUS",
+  "coilAddress": 5524,
+  "description": "1 AND 0 PULSE EVERY SEC UPDATING TO JAVA",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587929"
+  },
+  "coilId": 54,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "VEGBIN_MATERIAL_WEIGHTING_DELAY_ALARM_NO_MATERIAL_STATION_1",
+  "coilAddress": 5601,
+  "description": "1-WEIGHTING DELAY(No Material), 0-Normal",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658792c"
+  },
+  "coilId": 55,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "SPICE__BIN_MATERIAL_WEIGHTING_DELAY_ALARM_NO_MATERIAL_STATION_1",
+  "coilAddress": 5602,
+  "description": "1-WEIGHTING DELAY(No Material), 0-Normal",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658792f"
+  },
+  "coilId": 56,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "MEAT_BIN_MATERIAL_WEIGHTING_DELAY_ALARM_NO_MATERIAL_STATION_1",
+  "coilAddress": 5603,
+  "description": "1-WEIGHTING DELAY(No Material), 0-Normal",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587932"
+  },
+  "coilId": 57,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "VEGBIN_MATERIAL_WEIGHTING_DELAY_ALARM_NO_MATERIAL_STATION_2",
+  "coilAddress": 5604,
+  "description": "1-WEIGHTING DELAY(No Material), 0-Normal",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587935"
+  },
+  "coilId": 58,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "SPICE__BIN_MATERIAL_WEIGHTING_DELAY_ALARM_NO_MATERIAL_STATION_2",
+  "coilAddress": 5605,
+  "description": "1-WEIGHTING DELAY(No Material), 0-Normal",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587938"
+  },
+  "coilId": 59,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "MEAT_BIN_MATERIAL_WEIGHTING_DELAY_ALARM_NO_MATERIAL_STATION_2",
+  "coilAddress": 5606,
+  "description": "1-WEIGHTING DELAY(No Material), 0-Normal",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658793b"
+  },
+  "coilId": 60,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_BLOW_ON_VEG1_LEANER_ACTUATOR",
+  "coilAddress": 5611,
+  "description": "0- BOWL AVAILABLE, 1- BOWL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658793e"
+  },
+  "coilId": 61,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_BLOW_ON_SPICE_1_LEANER_ACTUATOR",
+  "coilAddress": 5612,
+  "description": "0- BOWL AVAILABLE, 1- BOWL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587941"
+  },
+  "coilId": 62,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_BLOW_ON_MEAT_1_LEANER_ACTUATOR",
+  "coilAddress": 5613,
+  "description": "0- BOWL AVAILABLE, 1- BOWL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587944"
+  },
+  "coilId": 63,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_BLOW_ON_VEG2_LEANER_ACTUATOR",
+  "coilAddress": 5614,
+  "description": "0- BOWL AVAILABLE, 1- BOWL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587947"
+  },
+  "coilId": 64,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_BLOW_ON_SPICE_2_LEANER_ACTUATOR",
+  "coilAddress": 5615,
+  "description": "0- BOWL AVAILABLE, 1- BOWL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658794a"
+  },
+  "coilId": 65,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_BLOW_ON_MEAT_2_LEANER_ACTUATOR",
+  "coilAddress": 5616,
+  "description": "0- BOWL AVAILABLE, 1- BOWL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658794d"
+  },
+  "coilId": 66,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_UTENSIL_IN_HOLDING_STATIOIN_1",
+  "coilAddress": 5621,
+  "description": "0- UTENSIL AVAILABLE, 1- UTENSIL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587950"
+  },
+  "coilId": 67,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_1_SPATULA_ON_HOLDING_STATION_1",
+  "coilAddress": 5622,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587953"
+  },
+  "coilId": 68,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_2_SPATULA_ON_HOLDING_STATION_1",
+  "coilAddress": 5623,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587956"
+  },
+  "coilId": 69,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_3_SPATULA_ON_HOLDING_STATION_1",
+  "coilAddress": 5624,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587959"
+  },
+  "coilId": 70,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_4_SPATULA_ON_HOLDING_STATION_1",
+  "coilAddress": 5625,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658795c"
+  },
+  "coilId": 71,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_5_SPATULA_ON_HOLDING_STATION_1",
+  "coilAddress": 5626,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658795f"
+  },
+  "coilId": 72,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_UTENSIL_IN_HOLDING_STATIOIN_2",
+  "coilAddress": 5631,
+  "description": "0- UTENSIL AVAILABLE, 1- UTENSIL NOT AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587962"
+  },
+  "coilId": 73,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_1_SPATULA_ON_HOLDING_STATION_2",
+  "coilAddress": 5632,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587965"
+  },
+  "coilId": 74,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_2_SPATULA_ON_HOLDING_STATION_2",
+  "coilAddress": 5633,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c99016587968"
+  },
+  "coilId": 75,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_3_SPATULA_ON_HOLDING_STATION_2",
+  "coilAddress": 5634,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658796b"
+  },
+  "coilId": 76,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_4_SPATULA_ON_HOLDING_STATION_2",
+  "coilAddress": 5635,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+},{
+  "_id": {
+    "$oid": "60003c6417a1c9901658796e"
+  },
+  "coilId": 77,
+  "coilTypeId": 4,
+  "coilType": "ALARMS",
+  "coilName": "NO_TYPE_5_SPATULA_ON_HOLDING_STATION_2",
+  "coilAddress": 5636,
+  "description": "0- SPATULA TYPE-1 AVAILABLE, 1- SPATULA TYPE-1 AVAILABLE",
+  "javaPreOperations": "READ",
+  "javaPostOperations": "",
+  "plcOperations": "WRITE"
+}]

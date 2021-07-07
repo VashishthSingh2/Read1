@@ -1,0 +1,2197 @@
+[{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cda4"
+  },
+  "recipeDetailsId": 1,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cda7"
+  },
+  "recipeDetailsId": 2,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 9,
+  "qty": 0,
+  "time": 5,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdaa"
+  },
+  "recipeDetailsId": 3,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 3,
+  "qty": 60,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdad"
+  },
+  "recipeDetailsId": 4,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 4,
+  "qty": 30,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdb0"
+  },
+  "recipeDetailsId": 5,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 2,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdb3"
+  },
+  "recipeDetailsId": 6,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdb6"
+  },
+  "recipeDetailsId": 7,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 13,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdb9"
+  },
+  "recipeDetailsId": 8,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 3,
+  "qty": 50,
+  "time": 0,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdbc"
+  },
+  "recipeDetailsId": 9,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdbf"
+  },
+  "recipeDetailsId": 10,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdc2"
+  },
+  "recipeDetailsId": 11,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 3,
+  "qty": 500,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdc5"
+  },
+  "recipeDetailsId": 12,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdc8"
+  },
+  "recipeDetailsId": 13,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdcb"
+  },
+  "recipeDetailsId": 14,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdce"
+  },
+  "recipeDetailsId": 15,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdd1"
+  },
+  "recipeDetailsId": 16,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdd4"
+  },
+  "recipeDetailsId": 17,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 11,
+  "qty": 0,
+  "time": 30,
+  "flame": 30,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdd7"
+  },
+  "recipeDetailsId": 18,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cdda"
+  },
+  "recipeDetailsId": 19,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 11,
+  "qty": 0,
+  "time": 30,
+  "flame": 30,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cddd"
+  },
+  "recipeDetailsId": 20,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cde0"
+  },
+  "recipeDetailsId": 21,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 11,
+  "qty": 0,
+  "time": 30,
+  "flame": 30,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa1ffbcc5dcde3e48cde3"
+  },
+  "recipeDetailsId": 22,
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 17
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48cdf2"
+  },
+  "recipeDetailsId": 48,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48cdf5"
+  },
+  "recipeDetailsId": 49,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 2,
+  "qty": 0,
+  "time": 0,
+  "flame": 10,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48cdf8"
+  },
+  "recipeDetailsId": 50,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48cdfb"
+  },
+  "recipeDetailsId": 51,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 9,
+  "qty": 0,
+  "time": 5,
+  "flame": 15,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48cdfe"
+  },
+  "recipeDetailsId": 52,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 13,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce01"
+  },
+  "recipeDetailsId": 53,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 4,
+  "qty": 70,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce04"
+  },
+  "recipeDetailsId": 54,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce07"
+  },
+  "recipeDetailsId": 55,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce0a"
+  },
+  "recipeDetailsId": 56,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 3,
+  "qty": 60,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce0d"
+  },
+  "recipeDetailsId": 57,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce10"
+  },
+  "recipeDetailsId": 58,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 10,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce13"
+  },
+  "recipeDetailsId": 59,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 4,
+  "qty": 50,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce16"
+  },
+  "recipeDetailsId": 60,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce19"
+  },
+  "recipeDetailsId": 61,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 10,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce1c"
+  },
+  "recipeDetailsId": 62,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce1f"
+  },
+  "recipeDetailsId": 63,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 13,
+  "qty": 0,
+  "time": 10,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce22"
+  },
+  "recipeDetailsId": 64,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 12,
+  "sourceOrType": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce25"
+  },
+  "recipeDetailsId": 65,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 10,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce28"
+  },
+  "recipeDetailsId": 66,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 5,
+  "qty": 600,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce2b"
+  },
+  "recipeDetailsId": 67,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 8,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce2e"
+  },
+  "recipeDetailsId": 68,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 10,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce31"
+  },
+  "recipeDetailsId": 69,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 3,
+  "qty": 150,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce34"
+  },
+  "recipeDetailsId": 70,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce37"
+  },
+  "recipeDetailsId": 71,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 10,
+  "qty": 0,
+  "time": 15,
+  "flame": 15,
+  "groupId": 17
+},{
+  "_id": {
+    "$oid": "600aa214bcc5dcde3e48ce3a"
+  },
+  "recipeDetailsId": 72,
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 18
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce41"
+  },
+  "recipeDetailsId": 100,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 5,
+  "qty": 200,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce44"
+  },
+  "recipeDetailsId": 101,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 14,
+  "sourceOrType": {},
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce47"
+  },
+  "recipeDetailsId": 102,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 15,
+  "sourceOrType": {
+    "poolLoc": 1
+  },
+  "qty": 0,
+  "time": 150,
+  "flame": 0,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce4a"
+  },
+  "recipeDetailsId": 103,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce4d"
+  },
+  "recipeDetailsId": 104,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 16,
+  "sourceOrType": {
+    "poolLoc": 1,
+    "transOrServe": 1
+  },
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce50"
+  },
+  "recipeDetailsId": 105,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 4,
+  "qty": 70,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce53"
+  },
+  "recipeDetailsId": 106,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa226bcc5dcde3e48ce56"
+  },
+  "recipeDetailsId": 107,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 11,
+  "qty": 0,
+  "time": 50,
+  "flame": 0,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa227bcc5dcde3e48ce59"
+  },
+  "recipeDetailsId": 108,
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce60"
+  },
+  "recipeDetailsId": 23,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce63"
+  },
+  "recipeDetailsId": 24,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 2,
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce66"
+  },
+  "recipeDetailsId": 25,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce69"
+  },
+  "recipeDetailsId": 26,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 9,
+  "qty": 0,
+  "time": 10,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce6c"
+  },
+  "recipeDetailsId": 31,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 3,
+  "qty": 15,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce6f"
+  },
+  "recipeDetailsId": 27,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 13,
+  "qty": 0,
+  "time": 15,
+  "flame": 30,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce72"
+  },
+  "recipeDetailsId": 28,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 4,
+  "qty": 25,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce75"
+  },
+  "recipeDetailsId": 32,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 3,
+  "qty": 30,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce78"
+  },
+  "recipeDetailsId": 29,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce7b"
+  },
+  "recipeDetailsId": 33,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 3,
+  "qty": 20,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce7e"
+  },
+  "recipeDetailsId": 30,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce81"
+  },
+  "recipeDetailsId": 34,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 3,
+  "qty": 20,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce84"
+  },
+  "recipeDetailsId": 39,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 4,
+  "qty": 6,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce87"
+  },
+  "recipeDetailsId": 35,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce8a"
+  },
+  "recipeDetailsId": 40,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce8d"
+  },
+  "recipeDetailsId": 36,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce90"
+  },
+  "recipeDetailsId": 41,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce93"
+  },
+  "recipeDetailsId": 37,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce96"
+  },
+  "recipeDetailsId": 42,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce99"
+  },
+  "recipeDetailsId": 38,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 13,
+  "qty": 0,
+  "time": 17,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce9c"
+  },
+  "recipeDetailsId": 43,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ce9f"
+  },
+  "recipeDetailsId": 44,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48cea2"
+  },
+  "recipeDetailsId": 45,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 10,
+  "qty": 1,
+  "time": 20,
+  "flame": 15,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48cea5"
+  },
+  "recipeDetailsId": 46,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 12,
+  "sourceOrType": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48cea8"
+  },
+  "recipeDetailsId": 47,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ceab"
+  },
+  "recipeDetailsId": 48,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 5,
+  "qty": 220,
+  "time": 0,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ceae"
+  },
+  "recipeDetailsId": 49,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 8,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ceb1"
+  },
+  "recipeDetailsId": 51,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 17
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ceb4"
+  },
+  "recipeDetailsId": 53,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 18
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ceb7"
+  },
+  "recipeDetailsId": 54,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 19
+},{
+  "_id": {
+    "$oid": "600aa23cbcc5dcde3e48ceba"
+  },
+  "recipeDetailsId": 55,
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 20
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cec5"
+  },
+  "recipeDetailsId": 73,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cec8"
+  },
+  "recipeDetailsId": 74,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 2,
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cecb"
+  },
+  "recipeDetailsId": 75,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 9,
+  "qty": 0,
+  "time": 8,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cece"
+  },
+  "recipeDetailsId": 76,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48ced1"
+  },
+  "recipeDetailsId": 79,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 3,
+  "qty": 30,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48ced4"
+  },
+  "recipeDetailsId": 77,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 13,
+  "qty": 0,
+  "time": 15,
+  "flame": 20,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48ced7"
+  },
+  "recipeDetailsId": 78,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 3,
+  "qty": 20,
+  "time": 0,
+  "flame": 20,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48ceda"
+  },
+  "recipeDetailsId": 80,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cedd"
+  },
+  "recipeDetailsId": 81,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 40,
+  "flame": 20,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cee0"
+  },
+  "recipeDetailsId": 87,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 5,
+  "qty": 100,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cee3"
+  },
+  "recipeDetailsId": 82,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 4,
+  "qty": 6,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cee6"
+  },
+  "recipeDetailsId": 88,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 8,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cee9"
+  },
+  "recipeDetailsId": 83,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 4,
+  "qty": 2,
+  "time": 0,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48ceec"
+  },
+  "recipeDetailsId": 89,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 35,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48ceef"
+  },
+  "recipeDetailsId": 84,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cef2"
+  },
+  "recipeDetailsId": 90,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 3,
+  "qty": 250,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cef5"
+  },
+  "recipeDetailsId": 85,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 4,
+  "qty": 9,
+  "time": 0,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cef8"
+  },
+  "recipeDetailsId": 91,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cefb"
+  },
+  "recipeDetailsId": 86,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 4,
+  "qty": 2,
+  "time": 0,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cefe"
+  },
+  "recipeDetailsId": 92,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 25,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf01"
+  },
+  "recipeDetailsId": 93,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf04"
+  },
+  "recipeDetailsId": 94,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 25,
+  "flame": 15,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf07"
+  },
+  "recipeDetailsId": 95,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf0a"
+  },
+  "recipeDetailsId": 96,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 12,
+  "sourceOrType": [
+    {},
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf0d"
+  },
+  "recipeDetailsId": 97,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 10,
+  "qty": 0,
+  "time": 30,
+  "flame": 15,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf10"
+  },
+  "recipeDetailsId": 98,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 11,
+  "qty": 0,
+  "time": 30,
+  "flame": 40,
+  "groupId": 17
+},{
+  "_id": {
+    "$oid": "600aa24fbcc5dcde3e48cf13"
+  },
+  "recipeDetailsId": 99,
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 18
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf1c"
+  },
+  "recipeDetailsId": 110,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf1f"
+  },
+  "recipeDetailsId": 111,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 2,
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf22"
+  },
+  "recipeDetailsId": 112,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf25"
+  },
+  "recipeDetailsId": 113,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 9,
+  "qty": 0,
+  "time": 10,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf28"
+  },
+  "recipeDetailsId": 114,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 13,
+  "qty": 0,
+  "time": 15,
+  "flame": 20,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf2b"
+  },
+  "recipeDetailsId": 115,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 4,
+  "qty": 25,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf2e"
+  },
+  "recipeDetailsId": 116,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf31"
+  },
+  "recipeDetailsId": 118,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 3,
+  "qty": 15,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf34"
+  },
+  "recipeDetailsId": 117,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf37"
+  },
+  "recipeDetailsId": 119,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 3,
+  "qty": 30,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf3a"
+  },
+  "recipeDetailsId": 124,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf3d"
+  },
+  "recipeDetailsId": 120,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf40"
+  },
+  "recipeDetailsId": 125,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf43"
+  },
+  "recipeDetailsId": 121,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf46"
+  },
+  "recipeDetailsId": 126,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf49"
+  },
+  "recipeDetailsId": 122,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf4c"
+  },
+  "recipeDetailsId": 127,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf4f"
+  },
+  "recipeDetailsId": 123,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 13,
+  "qty": 0,
+  "time": 17,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf52"
+  },
+  "recipeDetailsId": 128,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf55"
+  },
+  "recipeDetailsId": 129,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf58"
+  },
+  "recipeDetailsId": 130,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 10,
+  "qty": 1,
+  "time": 20,
+  "flame": 15,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf5b"
+  },
+  "recipeDetailsId": 131,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 12,
+  "sourceOrType": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf5e"
+  },
+  "recipeDetailsId": 132,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf61"
+  },
+  "recipeDetailsId": 133,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 5,
+  "qty": 300,
+  "time": 0,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf64"
+  },
+  "recipeDetailsId": 134,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 8,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf67"
+  },
+  "recipeDetailsId": 135,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 17
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf6a"
+  },
+  "recipeDetailsId": 136,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 18
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf6d"
+  },
+  "recipeDetailsId": 137,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 19
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf70"
+  },
+  "recipeDetailsId": 138,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 11,
+  "qty": 0,
+  "time": 20,
+  "flame": 40,
+  "groupId": 20
+},{
+  "_id": {
+    "$oid": "600aa270bcc5dcde3e48cf73"
+  },
+  "recipeDetailsId": 139,
+  "recipeId": 6,
+  "recipeName": "Chicken Wings",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 21
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf7c"
+  },
+  "recipeDetailsId": 151,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 1,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 1
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf7f"
+  },
+  "recipeDetailsId": 152,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 2,
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf82"
+  },
+  "recipeDetailsId": 153,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf85"
+  },
+  "recipeDetailsId": 154,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 9,
+  "qty": 0,
+  "time": 10,
+  "flame": 20,
+  "groupId": 2
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf88"
+  },
+  "recipeDetailsId": 155,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 13,
+  "qty": 0,
+  "time": 15,
+  "flame": 20,
+  "groupId": 3
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf8b"
+  },
+  "recipeDetailsId": 156,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 4,
+  "qty": 25,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf8e"
+  },
+  "recipeDetailsId": 159,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 3,
+  "qty": 50,
+  "time": 0,
+  "flame": 15,
+  "groupId": 4
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf91"
+  },
+  "recipeDetailsId": 157,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf94"
+  },
+  "recipeDetailsId": 160,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 3,
+  "qty": 20,
+  "time": 0,
+  "flame": 15,
+  "groupId": 5
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf97"
+  },
+  "recipeDetailsId": 158,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf9a"
+  },
+  "recipeDetailsId": 161,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 3,
+  "qty": 4,
+  "time": 0,
+  "flame": 5,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cf9d"
+  },
+  "recipeDetailsId": 166,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 4,
+  "qty": 6,
+  "time": 0,
+  "flame": 15,
+  "groupId": 6
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfa0"
+  },
+  "recipeDetailsId": 162,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfa3"
+  },
+  "recipeDetailsId": 167,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 7
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfa6"
+  },
+  "recipeDetailsId": 163,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 10,
+  "qty": 0,
+  "time": 40,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfa9"
+  },
+  "recipeDetailsId": 168,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 8
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfac"
+  },
+  "recipeDetailsId": 164,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 12,
+  "sourceOrType": [
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfaf"
+  },
+  "recipeDetailsId": 169,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 4,
+  "qty": 3,
+  "time": 0,
+  "flame": 15,
+  "groupId": 9
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfb2"
+  },
+  "recipeDetailsId": 165,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 13,
+  "qty": 0,
+  "time": 40,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfb5"
+  },
+  "recipeDetailsId": 170,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 4,
+  "qty": 5,
+  "time": 0,
+  "flame": 15,
+  "groupId": 10
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfb8"
+  },
+  "recipeDetailsId": 171,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 7,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 11
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfbb"
+  },
+  "recipeDetailsId": 172,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 10,
+  "qty": 1,
+  "time": 20,
+  "flame": 15,
+  "groupId": 12
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfbe"
+  },
+  "recipeDetailsId": 173,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 12,
+  "sourceOrType": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 13
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfc1"
+  },
+  "recipeDetailsId": 174,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 10,
+  "qty": 0,
+  "time": 20,
+  "flame": 15,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfc4"
+  },
+  "recipeDetailsId": 175,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 5,
+  "qty": 200,
+  "time": 0,
+  "flame": 15,
+  "groupId": 14
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfc7"
+  },
+  "recipeDetailsId": 176,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 8,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 15
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfca"
+  },
+  "recipeDetailsId": 177,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 10,
+  "qty": 0,
+  "time": 30,
+  "flame": 15,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfcd"
+  },
+  "recipeDetailsId": 179,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 3,
+  "qty": 10,
+  "time": 0,
+  "flame": 15,
+  "groupId": 16
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfd0"
+  },
+  "recipeDetailsId": 180,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 6,
+  "qty": 0,
+  "time": 0,
+  "flame": 15,
+  "groupId": 17
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfd3"
+  },
+  "recipeDetailsId": 178,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 13,
+  "qty": 0,
+  "time": 40,
+  "flame": 15,
+  "groupId": 18
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfd6"
+  },
+  "recipeDetailsId": 181,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 10,
+  "qty": 0,
+  "time": 30,
+  "flame": 15,
+  "groupId": 19
+},{
+  "_id": {
+    "$oid": "600aa280bcc5dcde3e48cfd9"
+  },
+  "recipeDetailsId": 182,
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "actionId": 17,
+  "qty": 0,
+  "time": 0,
+  "flame": 0,
+  "groupId": 20
+},{
+  "_id": {
+    "$oid": "600aa292bcc5dcde3e48cfe2"
+  },
+  "recipeDetailsId": 183,
+  "recipeId": 8,
+  "recipeName": "Dummy Recipe",
+  "actionId": 13,
+  "qty": 0,
+  "time": 600,
+  "flame": 0,
+  "groupId": 1
+}]

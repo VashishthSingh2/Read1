@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5f63780d7c5eeb44a21871fc"
+  },
+  "_class": "com.nala.model.BinType",
+  "name": "Veg Bin",
+  "description": "Veg Bin",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:51:57.663Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:51:57.663Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63781e7c5eeb44a21871fd"
+  },
+  "_class": "com.nala.model.BinType",
+  "name": "Spice Bin",
+  "description": "Spice Bin",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:52:14.178Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:52:14.178Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63782c7c5eeb44a21871fe"
+  },
+  "_class": "com.nala.model.BinType",
+  "name": "Non Veg Bin",
+  "description": "Non Veg Bin",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:52:28.514Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:52:28.514Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f637b717c5eeb44a218720d"
+  },
+  "_class": "com.nala.model.BinType",
+  "name": "Liquid Bin",
+  "description": "Liquid Bin",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T15:06:25.384Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T15:06:25.384Z"
+  }
+}]

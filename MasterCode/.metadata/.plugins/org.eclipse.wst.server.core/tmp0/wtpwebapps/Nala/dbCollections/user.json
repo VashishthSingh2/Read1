@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5fc0a67a359a273a1baf3c1a"
+  },
+  "_class": "com.nala.model.User",
+  "ssoId": "satish.v@adso.com",
+  "password": "$2a$10$BPZEf/xQjKOKNT/S/MLQ6egBaUojoO1gXLTP/OMfxiwRRIMKAurj6",
+  "firstName": "Kumar",
+  "lastName": "V",
+  "email": "satish@adso.com",
+  "phone": "44353455",
+  "userProfiles": [
+    {
+      "_id": {
+        "$oid": "5fc0a119359a8f258d71df29"
+      },
+      "type": "SUPERADMIN",
+      "sequence": 2,
+      "createdBy": "Satish",
+      "lastUpdatedBy": "Satish",
+      "createdDateTime": {
+        "$date": "2020-11-27T06:47:53.586Z"
+      },
+      "lastUpdatedDateTime": {
+        "$date": "2020-11-27T06:47:53.586Z"
+      }
+    }
+  ],
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-11-27T07:10:50.597Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-11-27T07:10:50.597Z"
+  }
+}]

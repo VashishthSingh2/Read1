@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5feac89f17a1c99016576caf"
+  },
+  "recipeId": 1,
+  "recipeName": "Veg Fried Rice",
+  "qty": 1,
+  "isActive": false
+},{
+  "_id": {
+    "$oid": "5feac89f17a1c99016576cb2"
+  },
+  "recipeId": 2,
+  "recipeName": "Chilli Chicken",
+  "qty": 1,
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "5feac89f17a1c99016576cb5"
+  },
+  "recipeId": 3,
+  "recipeName": "Manchurian",
+  "qty": 1,
+  "isActive": false
+},{
+  "_id": {
+    "$oid": "5feac89f17a1c99016576cb8"
+  },
+  "recipeId": 4,
+  "recipeName": "Chicken Fried Rice",
+  "qty": 1,
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "5feac89f17a1c99016576cbb"
+  },
+  "recipeId": 5,
+  "recipeName": "French Fries",
+  "qty": 1,
+  "isActive": false
+},{
+  "_id": {
+    "$oid": "6007ba3c44295ada3261c757"
+  },
+  "recipeId": 6,
+  "recipeName": "Chiken Wings",
+  "qty": 1,
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "6007ee8944295ada3261da88"
+  },
+  "recipeId": 7,
+  "recipeName": "Chicken Gravy",
+  "qty": 7,
+  "isActive": true
+},{
+  "_id": {
+    "$oid": "600a99febcc5dcde3e48cb49"
+  },
+  "recipeId": 8,
+  "recipeName": "Dummy Recipe",
+  "qty": 1,
+  "isActive": true
+}]

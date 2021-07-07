@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6002a04117a1c99016588a1f"
+  },
+  "burnerNo": 1,
+  "name": "BURNER 1",
+  "description": "BURNER 1",
+  "stationId": 1,
+  "robotId": 1,
+  "fryerId": 1,
+  "rackId": 1,
+  "isActive": true,
+  "isFree": true,
+  "_class": "com.nala.model.demo.DemoBurners"
+},{
+  "_id": {
+    "$oid": "6002a04117a1c99016588a22"
+  },
+  "burnerNo": 2,
+  "name": "BURNER 2",
+  "description": "BURNER 2",
+  "stationId": 1,
+  "robotId": 1,
+  "fryerId": 1,
+  "rackId": 1,
+  "isActive": true,
+  "isFree": true,
+  "_class": "com.nala.model.demo.DemoBurners"
+},{
+  "_id": {
+    "$oid": "6002a04117a1c99016588a25"
+  },
+  "burnerNo": 3,
+  "name": "BURNER 3",
+  "description": "BURNER 3",
+  "stationId": 2,
+  "robotId": 2,
+  "fryerId": 2,
+  "rackId": 2,
+  "isActive": true,
+  "isFree": true,
+  "_class": "com.nala.model.demo.DemoBurners"
+},{
+  "_id": {
+    "$oid": "6002a04117a1c99016588a28"
+  },
+  "burnerNo": 4,
+  "name": "BURNER 4",
+  "description": "BURNER 4",
+  "stationId": 2,
+  "robotId": 2,
+  "fryerId": 2,
+  "rackId": 2,
+  "isActive": true,
+  "isFree": true,
+  "_class": "com.nala.model.demo.DemoBurners"
+}]

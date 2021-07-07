@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5f637ad37c5eeb44a2187209"
+  },
+  "_class": "com.nala.model.EquipmentType",
+  "name": "Kadai",
+  "description": "Kadai",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T15:03:47.496Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T15:03:47.496Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f637add7c5eeb44a218720a"
+  },
+  "_class": "com.nala.model.EquipmentType",
+  "name": "Pan",
+  "description": "Pan",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T15:03:57.264Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T15:03:57.264Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f637ae77c5eeb44a218720b"
+  },
+  "_class": "com.nala.model.EquipmentType",
+  "name": "Laddle",
+  "description": "Laddle",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T15:04:07.378Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T15:04:07.378Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f637af37c5eeb44a218720c"
+  },
+  "_class": "com.nala.model.EquipmentType",
+  "name": "Spatula",
+  "description": "Spatula",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T15:04:19.038Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T15:04:19.038Z"
+  }
+}]

@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5f63305e7c5ec78f1560dd74"
+  },
+  "_class": "com.nala.model.ActionType",
+  "name": "Dispense",
+  "description": "Dispense",
+  "sequence": 1,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:46:06.814Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:46:06.814Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f63306c7c5ec78f1560dd75"
+  },
+  "_class": "com.nala.model.ActionType",
+  "name": "Collection",
+  "description": "Collection",
+  "sequence": 2,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:46:20.488Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:46:20.488Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6330797c5ec78f1560dd76"
+  },
+  "_class": "com.nala.model.ActionType",
+  "name": "Equipment",
+  "description": "Equipment",
+  "sequence": 3,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T09:46:33.476Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T09:46:33.476Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6378cd7c5eeb44a2187201"
+  },
+  "_class": "com.nala.model.ActionType",
+  "name": "Robot Movement",
+  "description": "Robot Movement",
+  "sequence": 4,
+  "createdBy": "Satish",
+  "lastUpdatedBy": "Satish",
+  "createdDateTime": {
+    "$date": "2020-09-17T14:55:09.572Z"
+  },
+  "lastUpdatedDateTime": {
+    "$date": "2020-09-17T14:55:09.572Z"
+  }
+}]
